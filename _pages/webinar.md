@@ -8,7 +8,6 @@ nav_order: 5
 ---
 
 # Datasets through the L👀king-Glass
-### — aka being a scientist in an upside down world 
 
 Datasets through the L👀king-Glass is a webinar series focusing on the data aspects on learning-based methods. Our aim is to build a community of scientists interested in understanding how the data we use affects the algorithms and society as a whole, instead of only optimizing for a performance metric. We draw inspiration from a variety of topics, such as data curation to build datasets, meta-data, shortcuts, fairness, ethics and philosophy in AI.
 
