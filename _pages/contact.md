@@ -7,7 +7,7 @@ nav: true
 nav_order: 10
 ---
 
-For all general inquiries, please contact Veronika Cheplygina (vech @ itu.dk). If you are interested in joining the lab, please read this page first. 
+For all general inquiries, please contact Veronika Cheplygina (vech @ itu.dk). If you are interested in joining the lab, please read [this page](https://purrlab.github.io/join/) first. 
 
 
 ## Address
