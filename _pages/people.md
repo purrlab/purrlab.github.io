@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 2
 horizontal: false
