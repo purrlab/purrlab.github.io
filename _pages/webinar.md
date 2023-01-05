@@ -13,11 +13,13 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 #### Next talk:
 Topic: **Characteristics of skin lesions datasets**
+
 Date: **27th Feb 2023 at 4pm CET**
+
 Speakers:
-    - **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** - Stanford University School of Medicine, Stanford, CA, USA 
-    - **Prof. Colin Fleming** - Ninewells Hospital, Dundee, UK
-    - **Dr. David Wen** - Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK
+* **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** - Stanford University School of Medicine, Stanford, CA, USA 
+* **Prof. Colin Fleming** - Ninewells Hospital, Dundee, UK
+* **Dr. David Wen** - Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK
 
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
