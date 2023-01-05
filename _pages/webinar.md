@@ -13,9 +13,10 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 ### Coming talks: TBA
 * 27th Feb 2023 at 4pm CET: Characteristics of skin lesions
+
 Speakers: [Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou), Prof. Colin Fleming, Dr. David Wen.
 
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
 
-If you want to receive information about upcoming seminars, please send an email to Amelia (amji@itu.dk).
+If you want to receive information about upcoming seminars, please send an email to Amelia ([amji@itu.dk](amji@itu.dk)).
