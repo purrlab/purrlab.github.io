@@ -2,7 +2,7 @@
 layout: page
 title: MMC
 description: Making Meta-Data Count
-img: assets/img/3.jpg
+img: assets/img/project_mmc.png
 importance: 2
 category: work
 ---
@@ -14,3 +14,4 @@ We plan to:
 * research fairness metrics for patient subgroups, such as age, sex or ethnicity, to investigate the equity of the algorithm ⚖️.
 * investigate meta-data-aware methods to try to avoid learning biases or shortcuts ⚔️🛡.
 
+People: [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io),  [Veronika Cheplygina](https://veronikach.com).
