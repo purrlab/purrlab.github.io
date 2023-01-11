@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Veronika Cheplygina
-description: Veronika's bio
+description: Associate professor
 img: assets/img/profile-photos/Veronika.png
 category: Faculty
 importance: 1
