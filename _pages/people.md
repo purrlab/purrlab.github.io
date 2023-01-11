@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 horizontal: false
-display_categories: [Faculty,Postdoc,PhD]
+display_categories: 
 ---
 
 <!-- pages/people.md -->
