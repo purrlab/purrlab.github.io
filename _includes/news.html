@@ -1,6 +1,12 @@
-          
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\begin{document}
+\begin{align*}          
           <div class="news">
-            <h2>news</h2>
+            <h2>News</h2>
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
@@ -29,3 +35,5 @@
             <p>No news so far...</p>
           {%- endif %} 
           </div>
+\end{align*}
+\end{document}
