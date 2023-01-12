@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dovile Juodelyte
-description: Dovile's bio
+description: PhD Fellow
 img: assets/img/profile-photos/Dovile.png
 category: PhD
 importance: 2

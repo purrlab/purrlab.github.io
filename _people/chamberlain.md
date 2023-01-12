@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bethany Chamberlain
-description: Bethany's bio.
+description: PhD Fellow
 img: assets/img/profile-photos/Bethany.png
 category: PhD
 importance: 2

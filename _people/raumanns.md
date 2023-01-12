@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ralf Raumanns
-description: Ralf's bio
+description: PhD Fellow
 img: assets/img/profile-photos/Ralf.png
 category: PhD
 importance: 1

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Amelia Jiménez-Sánchez
-description: Amelia's bio. 
+description: Postdoctoral researcher 
 img: assets/img/profile-photos/Amelia.png
 category: Postdoc
 importance: 1
