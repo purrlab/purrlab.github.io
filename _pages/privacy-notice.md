@@ -2,12 +2,11 @@
 layout: page
 permalink: /privacy-notice/
 title: Privacy notice
-description: Privacy notice
+description: 
 nav: false
 nav_order: 5
 ---
 
-# Privacy notice
 We hope our privacy notice below covers everything you need to know, but if you still have any questions please feel free to contact the organizers: [Veronika Cheplygina](https://veronikach.com) and [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io).
 
 ## Who we are
