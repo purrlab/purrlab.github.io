@@ -2,7 +2,7 @@
 layout: page
 title: Veronika Cheplygina
 description: Associate professor
-img: assets/img/profile-photos/Veronika2022.jpeg.  #Veronika.png for the cat one
+img: assets/img/profile-photos/Veronika2022.jpeg  #Veronika.png for the cat one
 category: Faculty
 importance: 1
 started: 2017-01-01
