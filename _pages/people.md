@@ -57,3 +57,9 @@ display_categories:
 {%- endif -%}
 </div>
 
+
+<h2>Alumni</h2>
+<ul>
+  <li>Christine Kaarde Galsgaard (MSc 2022)</li>
+  <li>Nikolaj Kjøller Bjerregaard (MSc 2022)</li>
+</ul>
