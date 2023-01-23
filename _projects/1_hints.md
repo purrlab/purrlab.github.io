@@ -7,10 +7,12 @@ importance: 1
 category: work
 ---
 
+<h2>Description</h2>
 
+In this project we investigate how "hints" - additional annotations of the visual content of the image - can help medical image classification. We have shown that in skin lesion classification, annotations of high-level properties such as asymmetry of the lesion, can be used in multi-task learning to improve the robustness of the algorithm. Additionally, such annotations may help for the algorithms to be more explainable.
 
-People: Ralf Raumanns (principal investigator), Veronika Cheplygina
-Funded by Dutch Research Council (NWO)
-2019-2024
+<h2>People</h2>
+Ralf Raumanns (principal investigator), Veronika Cheplygina
 
-Description here 
+<h2>Funding</h2>
+NWO (Dutch Research Council) Lerarenbeurs
