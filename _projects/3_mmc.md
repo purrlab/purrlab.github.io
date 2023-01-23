@@ -14,4 +14,8 @@ We plan to:
 * research fairness metrics for patient subgroups, such as age, sex or ethnicity, to investigate the equity of the algorithm ⚖️.
 * investigate meta-data-aware methods to try to avoid learning biases or shortcuts ⚔️🛡.
 
-People: [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io),  [Veronika Cheplygina](https://veronikach.com).
+<h2>People</h2>
+[Amelia Jiménez-Sánchez](https://ameliajimenez.github.io),  [Veronika Cheplygina](https://veronikach.com).
+
+<h2>Funding</h2>
+DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B 
