@@ -16,7 +16,10 @@ Topic: **Characteristics of skin lesions datasets**
 
 Date: **27th Feb 2023 at 4pm CET**
 
-Where: Online (link will follow) 
+Where: Online - [Zoom](https://itucph.zoom.us/j/61746892111)
+
+Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5Uqc--gpzkrG9WbYXfGmdg2jb8Dpftn3UPP/calendar/google/add) / [Outlook Calendar](https://itucph.zoom.us/meeting/u5Uqc--gpzkrG9WbYXfGmdg2jb8Dpftn3UPP/ics) / [Yahoo Calendar](https://rb.gy/o42yfu)
+
 
 Speakers:
 * **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** - Stanford University School of Medicine, Stanford, CA, USA 
