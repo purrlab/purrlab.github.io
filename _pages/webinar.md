@@ -21,14 +21,14 @@ Where: Online - [Zoom](https://itucph.zoom.us/j/61534921107)
 Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5UodO2hrDorGtOEiB8zJwtbPedYqqIH8_0N/calendar/google/add) / [Outlook Calendar](https://itucph.zoom.us/meeting/u5UodO2hrDorGtOEiB8zJwtbPedYqqIH8_0N/ics) / [Yahoo Calendar](shorturl.at/pN046)
 
 Speakers:
-* **[Amber Simpson](http://simpsonlab.org)** - Queen's University, Canada
-* **[Esther E. Bron](https://estherbron.com)** - Erasmus MC - University Medical Center Rotterdam, the Netherlands 
-* **[Spyridon Bakas](https://www.med.upenn.edu/cbica/sbakas/)** & **[Ujjwal Baid](https://www.med.upenn.edu/cbica/ujjwalbaid.html)** - University of Pennsylvania, USA
+* **[Prof. Amber Simpson](http://simpsonlab.org)** - Queen's University, Canada
+* **[Prof. Esther E. Bron](https://estherbron.com)** - Erasmus MC - University Medical Center Rotterdam, the Netherlands 
+* **[Prof. Spyridon Bakas](https://www.med.upenn.edu/cbica/sbakas/)** & **[Dr. Ujjwal Baid](https://www.med.upenn.edu/cbica/ujjwalbaid.html)** - University of Pennsylvania, USA
 
 #### Previous talks:
-* S01E01 - **[Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology** 
-* S01E02 - **David Wen** (Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK). 27th Feb 2023. **Characteristics of open access skin cancer image datasets: implications for equitable digital health**
-* S01E03 - **Colin Fleming** (Ninewells Hospital, Dundee, UK). 27th Feb 2023. **Characteristics of skin lesions datasets**
+* S01E01 - **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology** 
+* S01E02 - **Dr. David Wen** (Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK). 27th Feb 2023. **Characteristics of open access skin cancer image datasets: implications for equitable digital health**
+* S01E03 - **Prof. Colin Fleming** (Ninewells Hospital, Dundee, UK). 27th Feb 2023. **Characteristics of skin lesions datasets**
 
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
