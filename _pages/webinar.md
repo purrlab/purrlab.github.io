@@ -26,9 +26,11 @@ Speakers:
 * **[Prof. Spyridon Bakas](https://www.med.upenn.edu/cbica/sbakas/)** & **[Dr. Ujjwal Baid](https://www.med.upenn.edu/cbica/ujjwalbaid.html)** - University of Pennsylvania, USA
 
 #### Previous talks:
-* S01E01 - **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology** 
-* S01E02 - **Dr. David Wen** (Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK). 27th Feb 2023. **Characteristics of open access skin cancer image datasets: implications for equitable digital health**
-* S01E03 - **Prof. Colin Fleming** (Ninewells Hospital, Dundee, UK). 27th Feb 2023. **Characteristics of skin lesions datasets**
+* S01E01 - **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology**. [Video](https://youtu.be/zLxYUtToXGg)
+* S01E02 - **[Dr. David Wen]()** (Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK). 27th Feb 2023. **Characteristics of open access skin cancer image datasets: implications for equitable digital health**. Video will be available after 5th July 2023.
+* S01E03 - **[Prof. Colin Fleming]()** (Ninewells Hospital, Dundee, UK). 27th Feb 2023. **Characteristics of skin lesions datasets**. [Video](https://youtu.be/MlBxlL5WUuU)
+
+All previous talks where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
