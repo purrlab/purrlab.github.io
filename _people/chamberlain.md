@@ -7,7 +7,7 @@ category: PhD
 importance: 2
 started: 2022-01-03
 name: Bethany Chamberlain
-status: Current
+status: Former
 position: PhD
 email: bcha@itu.dk
 themes: [Mental Health, Public Datasets]
