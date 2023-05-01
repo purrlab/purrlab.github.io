@@ -9,7 +9,8 @@ nav_order: 6
 
 ## Open PhD or postdoc positions
 
-There are currently no open positions. If available, positions will be announced both here and at the [official ITU website](https://en.itu.dk/About-ITU/Vacancies).
+We have a postdoc position in the CATS project available, for the full details see [the official ITU page](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181571&DepartmentId=3439&MediaId=5). Please apply through the official website, or get in touch with Veronika if you have any questions. 
+
 
 ## Alternatives
 
