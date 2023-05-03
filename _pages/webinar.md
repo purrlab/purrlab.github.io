@@ -16,7 +16,7 @@ Topic: **Datasets for medical image challenges**
 
 Date: **5th June 2023 at 4pm CEST**
 
-Where: Online - [Zoom](https://itucph.zoom.us/j/61534921107)
+Where: Online - Zoom. [Register here](https://itucph.zoom.us/meeting/register/u5UodO2hrDorGtOEiB8zJwtbPedYqqIH8_0N)
 
 Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5UodO2hrDorGtOEiB8zJwtbPedYqqIH8_0N/calendar/google/add) / [Outlook Calendar](https://itucph.zoom.us/meeting/u5UodO2hrDorGtOEiB8zJwtbPedYqqIH8_0N/ics) / [Yahoo Calendar](shorturl.at/pN046)
 
