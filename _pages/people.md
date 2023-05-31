@@ -58,8 +58,12 @@ display_categories:
 </div>
 
 
-<h2>Alumni</h2>
+<h2>Thesis students</h2>
 <ul>
-  <li>Christine Kaarde Galsgaard (MSc 2022)</li>
-  <li>Nikolaj Kjøller Bjerregaard (MSc 2022)</li>
+  <li>Théo Sourget (research visit 2023)</li>
+  <li>Cathrine Damgaard (MSc thesis 2023)</li>
+  <li>Trine Naja Eriksen (MSc thesis 2023)</li>
+  <li>Stinna Ødgaard Winther (MSc thesis 2023)</li>
+  <li>Christine Kaarde Galsgaard (MSc thesis 2022)</li>
+  <li>Nikolaj Kjøller Bjerregaard (MSc thesis 2022)</li>
 </ul>
