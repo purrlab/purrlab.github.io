@@ -20,3 +20,4 @@ If you have or are eligible to apply for external funding and would like to work
 * [Innovation Fund - industrial PhD](https://innovationsfonden.dk/en/p/industrial-researcher/industrial-phd-all-areas-private)
 * [Fulbright](https://fulbrightcenter.dk/) (only for researchers from USA)
 * [MSCA postdoctoral fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2023)
+* [Lundbeck fellowships](https://lundbeckfonden.com/uddelinger-priser/ansoegere/apply-grants/lf-fellows)
