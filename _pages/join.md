@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
+## BSc and MSc projects at ITU
+
+If you are a student at ITU and are searching for a supervisor for your BSc or MSc thesis, our (Veronika, Amelia and Dovile) available topics are listed on the [DASYA website](https://dasya.itu.dk/for-students/proposals/).
+
+
 ## Open PhD or postdoc positions
 
 There are no open or upcoming positions at the moment. Please keep an eye on the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies) to stay updated about possible positions. 
