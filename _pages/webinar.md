@@ -20,7 +20,7 @@ Where: Online - Zoom
 
 #### Previous talks:
 * S01E01 - **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology**. [Video](https://youtu.be/zLxYUtToXGg).
-* S01E02 - **[Dr. David Wen]()** (Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK). 27th Feb 2023. **Characteristics of open access skin cancer image datasets: implications for equitable digital health**. Video will be available after 5th July 2023.
+* S01E02 - **[Dr. David Wen]()** (Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK). 27th Feb 2023. **Characteristics of open access skin cancer image datasets: implications for equitable digital health**. [Video](https://youtu.be/E4inBrMLVog).
 * S01E03 - **[Prof. Colin Fleming]()** (Ninewells Hospital, Dundee, UK). 27th Feb 2023. **Characteristics of skin lesions datasets**. [Video](https://youtu.be/MlBxlL5WUuU).
 * S02E01 - **[Prof. Amber Simpson](http://simpsonlab.org)** (Queen's University, Canada). 5th June 2023. **The medical segmentation decathlon**. [Video](https://www.youtube.com/watch?v=2sbWrXO6gAc&list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&index=3).
 * S02E02 - **[Dr. Esther E. Bron](https://estherbron.com)** (Erasmus MC - University Medical Center Rotterdam, the Netherlands). 5th June 2023. **Image analysis and machine learning competitions in dementia**. [Video](https://www.youtube.com/watch?v=pYl9bBcQA-M&list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&index=4).
