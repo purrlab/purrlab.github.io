@@ -24,7 +24,7 @@ PURRLab research interests lie within the broad area of trustworthy machine lear
 
 The best way to get a sense of what’s currently going on in the lab is to read about our [people](https://purrlab.github.io/people/) and [projects](https://purrlab.github.io/projects/).
 
-PURRLab is a part of [DASYA](https://dasya.itu.dk/) research group in the department of Computer Science at the IT University of Copenhagen. and is led by Veronika Cheplygina.
+PURRLab is a part of [DASYA](https://dasya.itu.dk/) research group in the department of Computer Science at the IT University of Copenhagen and is led by Veronika Cheplygina.
 
 <!--- CHECK/UPDATE LINKS -->
 PURRLab research is being supported by the Dutch Research Council, Novo Nordisk Foundation and the Independent Research Council of Denmark.
