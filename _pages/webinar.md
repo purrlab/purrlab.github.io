@@ -12,11 +12,15 @@ nav_order: 5
 Datasets through the L👀king-Glass is a webinar series focusing on the data aspects on learning-based methods. Our aim is to build a community of scientists interested in understanding how the data we use affects the algorithms and society as a whole, instead of only optimizing for a performance metric. We draw inspiration from a variety of topics, such as data curation to build datasets, meta-data, shortcuts, fairness, ethics and philosophy in AI.
 
 #### Next talk:
-Topic & Speakers: **TBA**
+Topic & Speakers: **Rethinking Annotations**
 
-Date: **TBA September 2023 at 4pm CEST**
+Date: **18 September 2023 at 1pm CEST**
 
 Where: Online - Zoom
+
+Confirmed speakers:
+* **[Dr. Thijs Kooi](https://www.thijskooi.com/)** (Lunit, South Korea).
+* **[Dr. Andre Pacheco](http://pachecoandre.com.br/)** (Federal University of ​Espírito Santo, Brazil​).
 
 #### Previous talks:
 * S01E01 - **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology**. [Video](https://youtu.be/zLxYUtToXGg).
