@@ -16,6 +16,7 @@ Topic: **Rethinking Annotations**
 
 Speakers:
 * **[Dr. Thijs Kooi](https://www.thijskooi.com/)** (Lunit, South Korea).
+* **Cathrine Damgaard and Trine Naja Eriksen** (IT University of Copenhagen, Denmark).
 * **[Dr. Andre Pacheco](http://pachecoandre.com.br/)** (Federal University of ​Espírito Santo, Brazil​).
 
 Date: **18 September 2023 at 1pm CEST**
