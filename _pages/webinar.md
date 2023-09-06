@@ -13,7 +13,9 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 #### Next webinar: Rethinking Annotations
 Date: **18 September 2023 at 1pm CEST**
+
 Where: **Zoom** [[Registration]](https://itucph.zoom.us/meeting/register/u5Uld-uvqD0tEtU6sIOeOTGsgmTsNzI-NyAx)
+
 Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5Uld-uvqD0tEtU6sIOeOTGsgmTsNzI-NyAx/calendar/google/add) / [Outlook Calendar](https://itucph.zoom.us/meeting/u5Uld-uvqD0tEtU6sIOeOTGsgmTsNzI-NyAx/ics) / [Yahoo Calendar](https://shorturl.at/alzZ1)
 
 ##### **Dr. Thijs Kooi** (Lunit, South Korea)
