@@ -39,6 +39,8 @@ Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5Uld-uvqD0tEtU6sIOeOTG
 * S02E01 - **[Prof. Amber Simpson](http://simpsonlab.org)** (Queen's University, Canada). 5th June 2023. **The medical segmentation decathlon**. [Video](https://www.youtube.com/watch?v=2sbWrXO6gAc&list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&index=3).
 * S02E02 - **[Dr. Esther E. Bron](https://estherbron.com)** (Erasmus MC - University Medical Center Rotterdam, the Netherlands). 5th June 2023. **Image analysis and machine learning competitions in dementia**. [Video](https://www.youtube.com/watch?v=pYl9bBcQA-M&list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&index=4).
 * S02E03 - **[Dr. Ujjwal Baid](https://www.med.upenn.edu/cbica/ujjwalbaid.html)** (University of Pennsylvania, USA). 5th June 2023. **Brain tumor segmentation challenge 2023**. [Video](https://www.youtube.com/watch?v=_RlcKW0sZ80&list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&index=5).
+* S03E01 - **[Dr. Thijs Kooi](https://www.thijskooi.com/)** (Lunit, South Korea). 18th September 2023. **Optimizing annotation cost for AI based medical image analysis**. [Video](https://youtu.be/qhAYUfQlYfo).
+* S03E02 - **[Dr. Andre Pacheco](http://pachecoandre.com.br/)** (Federal University of Espírito Santo, Brazil). 18th September 2023. **PAD-UFES-20: the challenges and opportunities in creating a skin lesion dataset**. [Video](https://youtu.be/q-DBwWZejMY).
 
 All previous talks where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
