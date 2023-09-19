@@ -11,7 +11,7 @@ nav_order: 5
 
 Datasets through the L👀king-Glass is a webinar series focusing on the data aspects on learning-based methods. Our aim is to build a community of scientists interested in understanding how the data we use affects the algorithms and society as a whole, instead of only optimizing for a performance metric. We draw inspiration from a variety of topics, such as data curation to build datasets, meta-data, shortcuts, fairness, ethics and philosophy in AI.
 
-All previous talks where the authors have agreed to share the talk, can be found [here](../webinartalks/list.html) and in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
+All previous talks where the authors have agreed to share the talk, can be found [here](./webinar-talks.html) and in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
 #### Next webinar: Rethinking Annotations
 Date: **18 September 2023 at 1pm CEST**
