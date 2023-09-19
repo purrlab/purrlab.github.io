@@ -11,6 +11,8 @@ nav_order: 5
 
 Datasets through the L👀king-Glass is a webinar series focusing on the data aspects on learning-based methods. Our aim is to build a community of scientists interested in understanding how the data we use affects the algorithms and society as a whole, instead of only optimizing for a performance metric. We draw inspiration from a variety of topics, such as data curation to build datasets, meta-data, shortcuts, fairness, ethics and philosophy in AI.
 
+All previous talks where the authors have agreed to share the talk, can be found [here](/webinar_talks.html) and in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
+
 #### Next webinar: Rethinking Annotations
 Date: **18 September 2023 at 1pm CEST**
 
@@ -41,8 +43,6 @@ Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5Uld-uvqD0tEtU6sIOeOTG
 * S02E03 - **[Dr. Ujjwal Baid](https://www.med.upenn.edu/cbica/ujjwalbaid.html)** (University of Pennsylvania, USA). 5th June 2023. **Brain tumor segmentation challenge 2023**. [Video](https://www.youtube.com/watch?v=_RlcKW0sZ80&list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&index=5).
 * S03E01 - **[Dr. Thijs Kooi](https://www.thijskooi.com/)** (Lunit, South Korea). 18th September 2023. **Optimizing annotation cost for AI based medical image analysis**. [Video](https://youtu.be/qhAYUfQlYfo).
 * S03E02 - **[Dr. Andre Pacheco](http://pachecoandre.com.br/)** (Federal University of Espírito Santo, Brazil). 18th September 2023. **PAD-UFES-20: the challenges and opportunities in creating a skin lesion dataset**. [Video](https://youtu.be/q-DBwWZejMY).
-
-All previous talks where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
