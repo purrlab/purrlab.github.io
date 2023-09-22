@@ -13,26 +13,20 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 All previous talks where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
-#### Next webinar: Rethinking Annotations
-Date: **18 September 2023 at 1pm CEST**
+#### Next webinar: Shortcuts and bias
+Date: **4 December 2023 at 4pm CET**
 
-Where: **Zoom** [[Registration]](https://itucph.zoom.us/meeting/register/u5Uld-uvqD0tEtU6sIOeOTGsgmTsNzI-NyAx)
+Where: **Zoom** [[Registration]](https://itucph.zoom.us/meeting/register/u5UvceqvqjsoHtROZsAioF9k1wgy8054kXru)
 
-Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5Uld-uvqD0tEtU6sIOeOTGsgmTsNzI-NyAx/calendar/google/add) / [Outlook Calendar](https://itucph.zoom.us/meeting/u5Uld-uvqD0tEtU6sIOeOTGsgmTsNzI-NyAx/ics) / [Yahoo Calendar](https://shorturl.at/alzZ1)
+Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5UvceqvqjsoHtROZsAioF9k1wgy8054kXru/calendar/google/add) / [Outlook Calendar](https://itucph.zoom.us/meeting/u5UvceqvqjsoHtROZsAioF9k1wgy8054kXru/ics) / [Yahoo Calendar](https://shorturl.at/cor25)
 
-##### **Dr. Thijs Kooi** (Lunit, South Korea)
-* **Title**: Did You Get What You Paid For? Rethinking Annotation Cost of Deep Learning Based Computer Aided Detection systems
-* **Abstract**: Although techniques like self-supervised pre-training are becoming more mature and mitigate the need for large scale annotations, current computer aided detection and diagnosis (CAD) systems based on deep neural nets still require vast amounts of annotated data to perform well. Annotating medical data is expensive and should therefore be done with care. In this talk, we will provide insights into the performance of a CAD system for the analysis of chest radiographs, trained using different types of annotations and discuss open challenges in the annotation of image data for medical AI systems.
-* **Website**: [https://www.thijskooi.com/](https://www.thijskooi.com/)
+##### **Dr. Jessica Schrouff** (Google DeepMind, UK)
 
-##### **Cathrine Damgaard** and **Trine Naja Eriksen** (IT University of Copenhagen, Denmark)
-* **Title**: Annotation Label Reliability and Pathology Detection in Publicly Available Chest X-ray Datasets
-* **Abstract**:  Deep learning models are becoming more prevalent for pathology detection in medical image analysis, as more large-scale medical image datasets are published. The models are, however, prone to make errors which a human specialist never would, even though they have been shown to obtain a better overall performance. This could be caused by the models learning unintended shortcuts, or that the datasets used for training the models often have labels obtained from medical reports associated with the images and not the actual images, making the labels less reliable for an image classification task. We explore pathology label reliability by comparing image review annotations from different sources on the same images, as well as tube label reliability by providing 1,011 non-expert annotations on chest X-ray images, indicating the presence of four different tube types.
+##### **Dr. Enzo Ferrante** (CONICET, Argentina)
 
-##### **Dr. Andre Pacheco** (Federal University of Espírito Santo, Brazil)
-* **Title**: PAD-UFES-20: the challenges and opportunities in creating a skin lesion dataset
-* **Abstract**: The PAD-UFES-20 is a public skin lesion dataset composed of clinical images collected from smartphone devices and a set of patient clinical data containing several features. Because of its unique characteristics, the dataset has been growing in popularity and supporting research across the globe. This presentation explores the nuances of creating this dataset, shedding the light on the challenges faced and its promising potential for future advancements.
-* **Website**: [http://pachecoandre.com.br/](http://pachecoandre.com.br/)
+##### **Rhys Compton** and **Lily Zhang** (New York University, USA)
+
+More details will follow, [stay tuned](https://tinyurl.com/27a9syb7)!
 
 #### Previous talks:
 * S01E01 - **[Dr. Roxana Daneshjou](https://profiles.stanford.edu/roxana-daneshjou)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology**. [Video](https://youtu.be/zLxYUtToXGg).
