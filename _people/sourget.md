@@ -2,7 +2,7 @@
 layout: page
 title: Théo Sourget
 description: Research Assistant
-img: assets/img/profile-photos/Theo.png
+img: assets/img/profile-photos/Theo.jpg
 category: PhD
 importance: 1
 started: 2013-08-01
