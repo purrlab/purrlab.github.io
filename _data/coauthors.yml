@@ -1,7 +1,20 @@
 "Cheplygina":
   - firstname: ["Veronika", "V."]
-    url: https://www.veronikach.com
+    url: https://purrlab.github.io/people/cheplygina/
 
 "Jiménez-Sánchez":
   - firstname: ["Amelia", "A."]
-    url: https://ameliajimenez.github.io
+    url: https://purrlab.github.io/people/jimenez-sanchez/
+
+"Juodelyte":
+  - firstname: ["Dovile", "D."]
+    url: https://purrlab.github.io/people/juodelyte/ 
+
+"Raumanns":
+  - firstname: ["Ralf", "R."]
+    url: https://purrlab.github.io/people/raumanns/ 
+
+"Sourget":
+  - firstname: ["Théo", "T."]
+    url: https://purrlab.github.io/people/sourget/ 
+
