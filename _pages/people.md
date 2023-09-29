@@ -58,12 +58,17 @@ display_categories:
 </div>
 
 
-<h2>Thesis students</h2>
+<h2>Students</h2>
 <ul>
-  <li>Théo Sourget (research visit 2023)</li>
+  <li>Chrisanna Kate Cornish (BSc thesis 2023)</li>
+  <li>Danielle Marie Dequin (BSc thesis 2023)</li>
   <li>Cathrine Damgaard (MSc thesis 2023)</li>
   <li>Trine Naja Eriksen (MSc thesis 2023)</li>
   <li>Stinna Ødgaard Winther (MSc thesis 2023)</li>
+  <li>Ahmet Akkoç (MSc project 2023)</li>
   <li>Christine Kaarde Galsgaard (MSc thesis 2022)</li>
   <li>Nikolaj Kjøller Bjerregaard (MSc thesis 2022)</li>
+  <li>Kasper Thorhauge Grønbek (BSc thesis 2022)</li>
+  <li>Andreas Skovdal (BSc thesis 2022)</li>
+  <li>Frederik Bechmann Faarup (BSc thesis 2022)</li>
 </ul>
