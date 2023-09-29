@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Amelia Jiménez-Sánchez
-description: Postdoctoral researcher 
 img: assets/img/profile-photos/Amelia.png
 category: Postdoc
 importance: 1
@@ -10,7 +9,8 @@ name: Amelia Jiménez-Sánchez
 status: Current
 position: Postdoctoral researcher
 email: amji@itu.dk
-themes: [Fairness, Medical Imaging, Curriculum Learning, Domain Adaptation, Federated Learning]
+themes: [Fairness, MetaData, Datasets, Medical Imaging, Curriculum Learning, Domain Adaptation, Federated Learning]
+description: Amelia is a Postdoctoral Researcher at the IT University of Copenhagen. Her research interests are in the broad areas of medical imaging, representation learning and data science. She has experience developing algorithms to deal with label noise, limited amounts of data and class-imbalance, problems that are fairly common in medical datasets. She is working on the project “Making Metadata Count”. Before joining ITU, she received a degree in Telecommunications Engineering from the University of Granada, a Master of Science in Biomedical Computing from the Technical University of Munich and her Ph.D. from Pompeu Fabra University. You can find more info about her at her personal website [https://ameliajimenez.github.io/](https://ameliajimenez.github.io/) or [Twitter](https://twitter.com/ameliajimsan).
 ---
 
 References
