@@ -14,7 +14,7 @@ A popular strategy when working with any images is to use ImageNet, a dataset of
 source dataset in a way that reduces the overall carbon footprint, by defining dataset similarity measures which reflect the transferability of datasets, as well as studying how researchers make choices about which datasets to use as sources. 
 
 <h2>People</h2>
-Bethany Chamberlain, Dovile Juodelyte, Veronika Cheplygina
+Dovile Juodelyte, Veronika Cheplygina
   
 <h2>Funding</h2>
 Novo Nordisk Foundation Starting Package - NNF21OC0068816
