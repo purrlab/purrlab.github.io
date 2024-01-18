@@ -58,17 +58,28 @@ display_categories:
 </div>
 
 
-<h2>Students</h2>
+<h2>Students at ITU</h2>
 <ul>
-  <li>Chrisanna Kate Cornish (BSc thesis 2023)</li>
-  <li>Danielle Marie Dequin (BSc thesis 2023)</li>
-  <li>Cathrine Damgaard (MSc thesis 2023)</li>
-  <li>Trine Naja Eriksen (MSc thesis 2023)</li>
-  <li>Stinna Ødgaard Winther (MSc thesis 2023)</li>
-  <li>Ahmet Akkoç (MSc project 2023)</li>
-  <li>Christine Kaarde Galsgaard (MSc thesis 2022)</li>
-  <li>Nikolaj Kjøller Bjerregaard (MSc thesis 2022)</li>
-  <li>Kasper Thorhauge Grønbek (BSc thesis 2022)</li>
-  <li>Andreas Skovdal (BSc thesis 2022)</li>
-  <li>Frederik Bechmann Faarup (BSc thesis 2022)</li>
+  <li>Caroline Vang-Larsen (MSc thesis fall 2023)</li>
+  <li>Chrisanna Kate Cornish (BSc thesis spring 2023)</li>
+  <li>Danielle Marie Dequin (BSc thesis spring 2023)</li>
+  <li>Cathrine Damgaard (MSc thesis spring 2023)</li>
+  <li>Trine Naja Eriksen (MSc thesis spring 2023)</li>
+  <li>Stinna Ødgaard Winther (MSc thesis spring 2023)</li>
+  <li>Ahmet Akkoç (MSc project fall 2022)</li>
+  <li>Christine Kaarde Galsgaard (MSc thesis fall 2022)</li>
+  <li>Nikolaj Kjøller Bjerregaard (MSc thesis spring 2022)</li>
+  <li>Kasper Thorhauge Grønbek (BSc thesis spring 2022)</li>
+  <li>Andreas Skovdal (BSc thesis spring 2022)</li>
+  <li>Frederik Bechmann Faarup (BSc thesis spring 2022)</li>
+</ul>
+
+<h2>Students at TU Eindhoven</h2>
+<ul>
+  <li>Irma van den Brandt (2020)</li>
+  <li>Britt Michels (2019-2020)</li>
+  <li>Colin Nieuwlaat (2019-2020)</li>
+  <li>Rumjana Romanova (2019-2020)</li>
+  <li>Tom van Sonsbeek (2018-2019)</li>
+  <li>Linde Hesse (2018-2019)</li>
 </ul>
