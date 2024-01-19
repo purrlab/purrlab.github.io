@@ -48,7 +48,7 @@ Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5UqdO2vrzsvHtTfd-ILmjh
 * S03E02 - **[Dr. Andre Pacheco](https://youtu.be/q-DBwWZejMY)** (Federal University of Espírito Santo, Brazil). 18th September 2023. **PAD-UFES-20: the challenges and opportunities in creating a skin lesion dataset**
 * S04E01 - **[Dr. Jessica Schrouff](https://youtu.be/-jxId9lxqXM?si=5NaHu1a8WcKfFBaK)** (Google DeepMind, UK). 4th December 2023. **Detecting shortcut learning for fair medical AI**
 * S04E02 - **[Rhys Compton and Lily Zhang](https://youtu.be/hVM2PNsXPhM?si=JJR_8Ve-9tPISBQJ)** (New York University, USA). 4th December 2023. **When more is less: Incorporating additional datasets can hurt performance by introducing spurious correlations**
-* S04E03 - **[Dr. Enzo Ferrante](https://youtu.be/hVM2PNsXPhM?si=JJR_8Ve-9tPISBQJ)** (CONICET, Argentina) Compton and Lily Zhang** (New York University, USA). 4th December 2023. **When more is less: Incorporating additional datasets can hurt performance by introducing spurious correlations**
+* S04E03 - **[Dr. Enzo Ferrante](https://youtu.be/3MOb1jzZXKc?si=z5P4mwPq1owG6jZH)** (CONICET, Argentina) Compton and Lily Zhang** (New York University, USA). 4th December 2023. **When more is less: Incorporating additional datasets can hurt performance by introducing spurious correlations**
 
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
