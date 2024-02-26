@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-$(document).ready(function() {
-    $('a.abstract').click(function() {
-        $(this).parent().parent().find(".abstract.hidden").toggleClass('open');
-    });
-    $('a.bibtex').click(function() {
-        $(this).parent().parent().find(".bibtex.hidden").toggleClass('open');
-    });
-    $('a').removeClass('waves-effect waves-light');
-=======
 $(document).ready(function () {
   // add toggle functionality to abstract and bibtex buttons
   $("a.abstract").click(function () {
@@ -60,5 +50,4 @@ $(document).ready(function () {
       });
     }
   });
->>>>>>> b607e580adbf2b96194dce79146f8aa201016da3
 });
