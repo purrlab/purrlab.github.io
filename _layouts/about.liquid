@@ -41,8 +41,11 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
+      <h2>
+        News
+      </h2>
     {% if page.news and site.announcements.enabled %}
-      {% include news.html%}
+      {% include news.liquid%}
     {% endif %}
 
     <!-- Latest posts -->
