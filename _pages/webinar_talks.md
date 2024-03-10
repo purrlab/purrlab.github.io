@@ -136,6 +136,8 @@ Bio: Dr. David Wen is a National Institute for Health Research (NIHR) dermatolog
 
 Video: [S01E02](https://youtu.be/E4inBrMLVog?si=JFOktO-oNQLIA3iu)
 
+---
+
 ### Roxana Daneshjou (Stanford University, USA) 
 
 Title: Challenges with equipoise and fairness in AI/ML datasets in dermatology
