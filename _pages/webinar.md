@@ -50,6 +50,8 @@ Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5UqdO2vrzsvHtTfd-ILmjh
 * S04E02 - **[Rhys Compton and Lily Zhang](https://youtu.be/hVM2PNsXPhM?si=JJR_8Ve-9tPISBQJ)** (New York University, USA). 4th December 2023. **When more is less: Incorporating additional datasets can hurt performance by introducing spurious correlations**
 * S04E03 - **[Dr. Enzo Ferrante](https://youtu.be/3MOb1jzZXKc?si=z5P4mwPq1owG6jZH)** (CONICET, Argentina). 4th December 2023. **Building and auditing a large-scale x-ray segmentation dataset with automatic annotations: Navigating fairness without ground-truth**
 
+All previous abstracts can be found [here](https://purrlab.github.io/webinar_talks). 
+
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
 
