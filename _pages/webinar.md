@@ -38,6 +38,7 @@ Add to: [Google Calendar](https://itucph.zoom.us/meeting/u5UqdO2vrzsvHtTfd-ILmjh
  * **Website**: [https://www.ic.unicamp.br/~sandra/](https://www.ic.unicamp.br/~sandra/)
 
 #### Previous talks:
+All previous abstracts can be found [here](https://purrlab.github.io/webinar_talks). 
 * S01E01 - **[Dr. Roxana Daneshjou](https://youtu.be/zLxYUtToXGg)** (Stanford University School of Medicine, Stanford, CA, USA). 27th Feb 2023. **Challenges with equipoise and fairness in AI/ML datasets in dermatology**
 * S01E02 - **[Dr. David Wen](https://youtu.be/E4inBrMLVog)** (Oxford University Clinical Academic Graduate School, University of Oxford, Oxford, UK). 27th Feb 2023. **Characteristics of open access skin cancer image datasets: implications for equitable digital health**
 * S01E03 - **[Prof. Colin Fleming](https://youtu.be/MlBxlL5WUuU)** (Ninewells Hospital, Dundee, UK). 27th Feb 2023. **Characteristics of skin lesions datasets**
