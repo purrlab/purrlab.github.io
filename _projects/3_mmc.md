@@ -19,3 +19,9 @@ We plan to:
 
 <h2>Funding</h2>
 DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B 
+
+<h2>References</h2>
+----------
+<div class="publications">
+  {% bibliography --query @*[project ~= mmc] %}
+</div>
