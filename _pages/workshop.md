@@ -13,7 +13,8 @@ Machine learning has shown promising results in **medical image diagnosis**, at 
 
 Our workshop’s focus will be on challenges within medical imaging datasets that hinder the development of fair and robust AI algorithms. We will have several invited talks, but focus engagement and collaboration. Participants will work in groups on various projects, such as tools for reviewing and documenting datasets, writing (living) reviews, and formulating strategies to continue this and similar community-led projects, for example via additional funding opportunities.
 
-### When and where: 19-20 September 2024, Copenhagen (Denmark) and partially online 
+### When and where: 
+19-20 September 2024, Copenhagen (Denmark) and partially online 
 
 ### Participation
 We are currently in the process of inviting selected participants to join the workshop. If there are enough spots, we will open registration to others. Parts of the workshop will also have virtual participation options, to allow more people to join. If you would like to stay updated / sign up for the waiting list, fill in this [form](https://forms.office.com/e/sBmiZuRARK).
