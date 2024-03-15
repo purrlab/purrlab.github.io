@@ -4,7 +4,7 @@ permalink: /join/
 title: Join
 description: How to join the lab
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ## BSc and MSc projects at ITU
