@@ -15,7 +15,7 @@ We plan to:
 * investigate meta-data-aware methods to try to avoid learning biases or shortcuts ⚔️🛡.
 
 <h2>People</h2>
-[Amelia Jiménez-Sánchez](https://ameliajimenez.github.io),  [Veronika Cheplygina](https://veronikach.com).
+[Amelia Jiménez-Sánchez](https://purrlab.github.io/people/jimenez-sanchez/), [Théo Sourget](https://purrlab.github.io/people/sourget/), [Veronika Cheplygina](https://purrlab.github.io/people/cheplygina/).
 
 <h2>Funding</h2>
 DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B 

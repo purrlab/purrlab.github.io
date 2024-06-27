@@ -14,7 +14,13 @@ A popular strategy when working with any images is to use ImageNet, a dataset of
 source dataset in a way that reduces the overall carbon footprint, by defining dataset similarity measures which reflect the transferability of datasets, as well as studying how researchers make choices about which datasets to use as sources. 
 
 <h2>People</h2>
-Dovile Juodelyte, Veronika Cheplygina
+[Dovile Juodelyte](https://purrlab.github.io/people/juodelyte/), [Yucheng Lu](https://purrlab.github.io/people/lu/), [Théo Sourget](https://purrlab.github.io/people/sourget/), [Veronika Cheplygina](https://purrlab.github.io/people/cheplygina/).
   
 <h2>Funding</h2>
 Novo Nordisk Foundation Starting Package - NNF21OC0068816
+
+<h2>References</h2>
+----------
+<div class="publications">
+  {% bibliography --query @*[project ~= cats] %}
+</div>
