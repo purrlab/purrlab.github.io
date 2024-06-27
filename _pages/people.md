@@ -58,23 +58,36 @@ display_categories:
 </div>
 
 
-<h2>Students at ITU</h2>
+<h2>MSc students at ITU</h2>
 <ul>
-  <li>Caroline Vang-Larsen (MSc thesis fall 2023)</li>
-  <li>Chrisanna Kate Cornish (BSc thesis spring 2023)</li>
-  <li>Danielle Marie Dequin (BSc thesis spring 2023)</li>
-  <li>Cathrine Damgaard (MSc thesis spring 2023)</li>
-  <li>Trine Naja Eriksen (MSc thesis spring 2023)</li>
-  <li>Stinna Ødgaard Winther (MSc thesis spring 2023)</li>
-  <li>Ahmet Akkoç (MSc project fall 2022)</li>
-  <li>Christine Kaarde Galsgaard (MSc thesis fall 2022)</li>
-  <li>Nikolaj Kjøller Bjerregaard (MSc thesis spring 2022)</li>
-  <li>Kasper Thorhauge Grønbek (BSc thesis spring 2022)</li>
-  <li>Andreas Skovdal (BSc thesis spring 2022)</li>
-  <li>Frederik Bechmann Faarup (BSc thesis spring 2022)</li>
+  <li>Michelle Hestbek-Møller (spring 2024) </li>
+  <li>Casper Anton Poulsen (spring 2024) </li>
+  <li>Jorge del Pozo Lerida (spring 2024) </li>
+  <li>Caroline Vang-Larsen (fall 2023)</li>
+  <li>Cathrine Damgaard (spring 2023)</li>
+  <li>Trine Naja Eriksen (spring 2023)</li>
+  <li>Stinna Ødgaard Winther (spring 2023)</li>
+  <li>Ahmet Akkoç (fall 2022)</li>
+  <li>Christine Kaarde Galsgaard (fall 2022)</li>
+  <li>Nikolaj Kjøller Bjerregaard (spring 2022)</li>
 </ul>
 
-<h2>Students at TU Eindhoven</h2>
+<h2>BSc students at ITU</h2>
+<ul>
+<li>Mirka Katuscáková (spring 2024)</li> 
+<li>Yasmin Sarkhosh (spring 2024)</li> 
+<li>Lars Andreas Metsälä Wulff (spring 2024)</li> 
+<li>Nikolette Zoe Pedersen (spring 2024)</li> 
+<li>Regitze Julie Sydendal (spring 2024)</li> 
+<li>Jannik Elsässer (spring 2024)</li>
+<li>Chrisanna Kate Cornish (spring 2023)</li>
+<li>Danielle Marie Dequin (spring 2023)</li>
+<li>Kasper Thorhauge Grønbek (spring 2022)</li>
+<li>Andreas Skovdal (spring 2022)</li>
+<li>Frederik Bechmann Faarup (spring 2022)</li>
+</ul>
+
+<h2>MSc students at TU Eindhoven</h2>
 <ul>
   <li>Irma van den Brandt (2020)</li>
   <li>Britt Michels (2019-2020)</li>
