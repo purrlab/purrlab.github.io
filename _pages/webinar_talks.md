@@ -10,6 +10,40 @@ nav: false
 # Datasets through the L👀king-Glass
 
 ---
+### Alceu Bissoto and Dr. Sandra Avila (UNICAMP, Brazil) 
+Title: **The Performance of Transferability Metrics does not Translate to Medical Tasks**
+
+Abstract: Transfer learning boosts the performance of medical image analysis by enabling deep learning (DL) on small datasets through the knowledge acquired from large ones. As the number of DL architectures explodes, exhaustively attempting all candidates becomes unfeasible, motivating cheaper alternatives for choosing them. Transferability scoring methods emerge as an enticing solution, allowing to efficiently calculate a score that correlates with the architecture accuracy on any target dataset. However, since transferability scores have not been evaluated on medical datasets, their use in this context remains uncertain, preventing them from benefiting practitioners. We fill that gap in this work, thoroughly evaluating seven transferability scores in three medical applications, including out-of-distribution scenarios. Despite promising results in general-purpose datasets, our results show that no transferability score can reliably and consistently estimate target performance in medical contexts, inviting further work in that direction.
+
+Bio: Alceu Bissoto holds a Master’s degree in Computer Science from the Institute of Computing at University of Campinas (UNICAMP), and a bachelor’s degree in Computer Engineering from Federal University of São Carlos (2016). Currently, Alceu is a Ph.D. Student at the Institute of Computing at University of Campinas (UNICAMP). He researches machine learning and computer vision, for classification and generation of medical images. In 2018 and 2019, he won the Google Latin America Research Awards (LARA).
+
+Bio: Dr. Sandra Avila is a Professor and Research Scientist at the Institute of Computing, Unicamp, Brazil. Her research interests are in, but are not limited to, the areas of Machine Learning, Computer Vision, Image Processing, and Pattern Recognition. She received the PhD double degree in Computer Science from Federal University of Minas Gerais (UFMG, Brazil), and Pierre and Marie Curie University (UPMC Sorbonne Paris VI, France) (2013). She holds the MSc degree in Computer Science from UFMG (2008). From November 2013 to February 2017 she worked as Postdoctoral Researcher at Unicamp.
+
+Video: [S05E03](https://youtu.be/1gbeopshZiE?si=OXr9E6NiJ6qzt_xp)
+
+---
+### Dr. Annika Reinke (DKFZ, Germany) 
+Title: **Why your Dataset Matters: Choosing the Right Metrics for Biomedical Image Analysis**
+
+Abstract: Validation metrics are key for the reliable tracking of scientific progress and for bridging the current chasm between AI research and its translation into practice. However, increasing evidence shows that particularly in image analysis, metrics are often chosen inadequately in relation to the underlying research problem. To overcome this, our large international expert consortium created Metrics Reloaded, a comprehensive framework guiding researchers in the problem-aware selection of metrics. In this talk, we introduce the framework and focus on the concept of a problem fingerprint - a structured representation of the given biomedical problem capturing all aspects that are relevant for metric selection, from the domain interest to the properties of the target structure(s), algorithm output, and the data set.
+
+Bio: Dr. Annika Reinke earned her PhD degree in 2023, focusing on eliminating flaws in biomedical image analysis validation. She continues her work as a postdoctoral researcher and deputy head by addressing underrepresented societally relevant topics, particularly scientific benchmarking and validation. Leading the “Validation of Intelligent Systems” group, Dr. Reinke aims to enhance the quality of validation pipelines for biomedical AI algorithms. She holds influential positions in various international groups, including the secretary of the MICCAI Special Interest Group on biomedical challenges and a taskforce lead in the MONAI Working Group on evaluation, reproducibility, and benchmarking.
+
+Video: [S05E02](https://youtu.be/OZheNn-DXp4?si=08wOT6ePeaQ8uApq)
+
+---
+### Hubert Dariusz Zając and Natalia-Rozalia Avlona (University of Copenhagen, Denmark) 
+Title: **Ground Truth Or Dare: Factors Affecting The Creation Of Medical Datasets For Training AI**
+
+Abstract: One of the core goals of responsible AI development is ensuring high-quality training datasets. Many researchers have pointed to the importance of the annotation step in the creation of high-quality data, but less attention has been paid to the work that enables data annotation. We define this work as the design of ground truth schema and explore the challenges involved in the creation of datasets in the medical domain even before any annotations are made. Based on extensive work in three health-tech organisations, we describe five external and internal factors that condition medical dataset creation processes. Three external factors include regulatory constraints, the context of creation and use, and commercial and operational pressures. These factors condition medical data collection and shape the ground truth schema design. Two internal factors include epistemic differences and limits of labelling. These directly shape the design of the ground truth schema. Discussions of what constitutes high-quality data need to pay attention to the factors that shape and constrain what is possible to be created, to ensure responsible AI design.
+
+Bio: Hubert D. Zając holds a B.Eng. and M.Sc. in Computer Science. He spent his fair share creating value for shareholders as a UX designer and software developer, which motivated him to try creating value for society instead. He is now a PhD student at the University of Copenhagen and a member of the Confronting Data Co-Lab, working on a healthcare AI project in Denmark and Kenya. He is interested in exploring the truth behind medical data, especially how data is collected, designed, labelled, and used. His research and passions also converge in exploring the challenges and opportunities of applying AI in real-world clinical settings. He is always up for a chat about data creation, AI, or the real-world inadequacy of heatmaps.
+
+Bio: Natalia-Rozalia Avlona is a lawyer and Marie Curie Ph.D. Fellow (DCODE) at the Computer Science Department of the University of Copenhagen. Her research focuses on the implementation of diagnostic algorithmic systems in the Health Care Sector. She is particularly interested in the role of regulatory compliance in the processes of designing and implementing high at-risk AI systems. Ηer aim is to translate the experts’ workflows to broader sociotechnical concerns that can inform the way policymakers perceive and regulate algorithmic systems. Natalia holds a LLB from the School of Law of the National and Kapodistrian University of Athens (2006), and a Master’s degree in Human Rights Law (LLM) from King’s College London (2007), whilst she had successfully taken the Bar Exams in 2009. She has worked for over a decade at the forefront of open and emerging technologies, focusing on their legal and ethical implications. She has international experience working in several Organizations and European Research Programmes in the UK, Belgium, Greece, and Cyprus. She is currently a member of the Management Committee of the CA21118 Cost Action Platform Work Inclusion Living Lab (P-WILL).
+
+Video: [S05E01](https://youtu.be/cl1-pR9P0vQ?si=CFpckhZCiyDjnGxF)
+
+---
 ### Dr. Enzo Ferrante (CONICET, Argentina) 
 Title: **Building and auditing a large-scale x-ray segmentation dataset with automatic annotations: Navigating fairness without ground-truth**
 
