@@ -14,6 +14,11 @@ We plan to:
 * investigate what kind of different shortcuts (based on demographics or image artefacts) might occur and how these affect the performance and fairness of the algorithms ⚖️.
 * investigate meta-data-aware methods to try to avoid learning biases or shortcuts ⚔️🛡.
 
+Some students have done work related to this project:
+* Trine Naja Eriksen and Cathrine Damgaard developed a chest drain detector with their non-expert annotations that generalizes well to expert labels.
+* Paula Victoria Menshikoff and Katarina Kraljevic investigated shortcut learning across different demographic attributes for chest X-ray classification.
+
+
 <h2>People</h2>
 [Amelia Jiménez-Sánchez](https://purrlab.github.io/people/jimenez-sanchez/), [Théo Sourget](https://purrlab.github.io/people/sourget/), [Veronika Cheplygina](https://purrlab.github.io/people/cheplygina/).
 
