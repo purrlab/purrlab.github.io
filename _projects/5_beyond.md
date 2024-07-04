@@ -14,6 +14,7 @@ Next to medical imaging occasionally lab members work on other types of data, wi
 <ul>
 <li>Nikolaj Kjøller Bjerregaard developed a method for recognizing furigana in Japanese texts and comic books</li>
 <li>Jannik Elsässer did a project on recognizing sea grass in underwater images</li>
+<li> Patrick Wittendorff Abarzua Neira, Silas Roien Arildsen, Bertram Kosmo Hviid and Tobias Skovbæk Brund did a project on machine learning for sign language recognition </li>
 <li>Dovile did a project on predictive maintenance of ball bearings in the pharmaceutical industry </li>
 </ul> 
 
