@@ -8,6 +8,9 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+
+An overview of our publications. The links if available are to the official/published version, but you should always be able to find a preprint on arXiV as well. 
+
 <div class="publications">
 
 {%- for y in page.years %}
