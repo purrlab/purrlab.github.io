@@ -13,6 +13,9 @@ Machine learning has shown promising results in **medical image diagnosis**, at 
 
 Our workshop’s focus will be on challenges within medical imaging datasets that hinder the development of fair and robust AI algorithms. We will have several invited talks, but focus engagement and collaboration. Participants will work in groups on various projects, such as tools for reviewing and documenting datasets, writing (living) reviews, and formulating strategies to continue this and similar community-led projects, for example via additional funding opportunities.
 
+### Program:
+Detailed information about the program sessions can be found [here](https://docs.google.com/document/d/1pGl1JuVzB87lmuXd5xmBFxeW_hrBhko6OSDKTMiKceA/edit?usp=sharing).
+
 ### When and where: 
 19-20 September 2024, Nyborg Strand Hotel (Denmark) and partially online 
 
@@ -26,8 +29,11 @@ We are currently in the process of inviting selected participants to join the wo
 * Leo Joskowicz (Hebrew University of Jerusalem)
 * Judy Gichoya (Emory University)
 
+### Virtual Chairs
+* Camila González (Stanford University)
+* Víctor M. Campello (University of Barcelona)
+
 ### Support from
 * Danish Data Science Academy (DDSA)
 * Independent Research Fund Denmark (DFF) - Inge Lehmann number 1134-00017B
 * IT University of Copenhagen (ITU)
-
