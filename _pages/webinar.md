@@ -13,10 +13,15 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 All [previous talks](https://purrlab.github.io/webinar_talks) where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
-#### Next webinar: TBA 
-Date: **TBA**
+#### Next webinar: Multimodal datasets
+Date: **24th February 2024**
 
-Where: **Zoom** 
+Where: **Zoom** - link tba 
+
+Speakers:
+* [Maria Zuluaga](https://scholar.google.com/citations?hl=fr&user=0SaJdxQAAAAJ) & [Hava Chaptoukaev](https://scholar.google.com/citations?user=b8P1k_oAAAAJ&hl=fr) - EURECOM, France
+* [Alice Jin](https://www.linkedin.com/in/qixuan-alice-jin/) & [Marzyeh Ghassemi](https://scholar.google.com/citations?user=9RyeFYwAAAAJ&hl=fr) - Massachusetts Institute of Technology, USA
+* [Resmi Ramachandranpillai](https://scholar.google.com/citations?hl=fr&user=XujN7O8AAAAJ) & [Malihe Alikhani](https://scholar.google.com/citations?hl=fr&user=w24_ETkAAAAJ) - Northeastern University, USA
 
 #### Previous talks:
 All previous abstracts can be found [here](https://purrlab.github.io/webinar_talks). 
