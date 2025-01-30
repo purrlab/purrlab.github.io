@@ -5,4 +5,4 @@ title: Preprint living review
 inline: true
 ---
 
-New preprint: [In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review] (https://arxiv.org/abs/2501.10727). We propose a living review that continuously tracks public datasets and their associated research artifacts across multiple medical imaging applications.
+New preprint! [In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review](https://arxiv.org/abs/2501.10727): a living review that continuously tracks public datasets and their associated research artifacts across multiple medical imaging applications.
