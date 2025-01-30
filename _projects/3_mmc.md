@@ -22,6 +22,14 @@ Some students have done work related to this project:
 <h2>People</h2>
 [Amelia Jiménez-Sánchez](https://purrlab.github.io/people/jimenez-sanchez/), [Théo Sourget](https://purrlab.github.io/people/sourget/), [Veronika Cheplygina](https://purrlab.github.io/people/cheplygina/).
 
+<h2> Webinar </h2>
+<p> We are organizing a webinar series: <a href="https://medical-datasets.github.io/webinar/"><strong>Datasets through the L👀king-Glass</strong></a> to better understand what researchers are doing with their (meta-) data.
+</p>
+
+<h2> Workshop </h2>
+<p> We organized a 2-days workshop in Nyborg Strand (DK) <a href="https://medical-datasets.github.io/workshop/"><strong>In the Picture: Medical Imaging Datasets</strong></a> focused on the challenges within medical imaging datasets that hinder the development of fair and robust AI algorithms. We had several invited talks, and mostly group sessions that focused on engagement and collaboration.
+</p>
+
 <h2>Funding</h2>
 DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B 
 
