@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yucheng Lu
-img: assets/img/profile-photos/yucheng.jpg
+img: assets/img/profile-photos/yucheng-2024.jpg
 category: Postdoc
 importance: 1
 started: 2023-12-01
