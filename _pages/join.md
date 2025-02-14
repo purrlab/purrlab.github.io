@@ -22,7 +22,7 @@ Have a look at our available topics on the [Dasya website](https://dasya.itu.dk/
 
 ## Open PhD or postdoc positions
 
-There are no open or upcoming positions at the moment. Please keep an eye on the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies) to stay updated about possible positions. 
+We have [multiple PhD and postdoc positions available](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181763&DepartmentId=3439&MediaId=5), closing date 30th of April 2025. In general, please keep an eye on the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies) to stay updated about possible positions. 
 
 
 ## Alternatives
