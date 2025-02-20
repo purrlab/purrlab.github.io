@@ -2,7 +2,7 @@
 layout: page
 title: Laura Weihl
 description: PhD Fellow
-img: assets/img/profile-photos/Laura.jpg
+img: assets/img/profile-photos/Laura.png
 category: PhD
 importance: 1
 started: 2023-06-01
