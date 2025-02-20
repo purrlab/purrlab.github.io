@@ -15,7 +15,8 @@ We plan to:
 * investigate meta-data-aware methods to try to avoid learning biases or shortcuts ⚔️🛡.
 
 Some students have done work related to this project:
-* Bianca Ida Pedersen and Max Andreas de Visser explored shortcuts in 3D lung nodules using the publicly available LIDC-IDRI dataset.
+* Bianca Ida Pedersen and Max Andreas de Visser investigated shortcuts in 3D lung nodules using the publicly available LIDC-IDRI dataset.
+* Casper Anton Poulsen and Michelle Hestbek-Møller explored generating synthetic X-ray images using SyntheX.
 * Trine Naja Eriksen and Cathrine Damgaard developed a chest drain detector with their non-expert annotations that generalizes well to expert labels.
 * Paula Victoria Menshikoff and Katarina Kraljevic investigated shortcut learning across different demographic attributes for chest X-ray classification.
 
