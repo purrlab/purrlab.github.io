@@ -2,7 +2,7 @@
 layout: page
 title: Beyond medical imaging
 description: Image processing and (weakly) supervised learning in other datasets
-img: assets/img/project_beyond.png
+img: assets/img/publication_preview/seagrassfinder.png
 importance: 2
 category: work
 ---
