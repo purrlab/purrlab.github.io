@@ -7,7 +7,16 @@ importance: 2
 category: work
 ---
 
-<h2>Description</h2>
+<h3>Underwater Vision: Exploring the Unseen Depths</h3>
+
+While our primary focus is on advancing medical imaging technologies, the principles and techniques we develop have exciting applications beyond the medical field. Underwater vision is one such area where the challenges mirror those we face in medical imaging; limited data availability and the necessity for robust transfer learning approaches.
+
+Underwater vision systems are crucial for exploring and monitoring marine environments, enabling us to study habitats, track biodiversity, and assess ecological impacts without physical intrusion. These systems rely on advanced image processing and machine learning techniques, similar to those used in medical diagnostics, to interpret the often murky and unpredictable underwater visuals.
+
+<img src="assets/img/project_seagrassfinder.png" alt="seagrassfinder" width="500" height="auto">
+
+
+<h3>Beyond Medical Imaging</h3>
 
 Next to medical imaging occasionally lab members work on other types of data, with methods often at least partially inspired by (traditional) image processing and weakly-supervised learning techniques. Some projects include (not all are published yet):
  
