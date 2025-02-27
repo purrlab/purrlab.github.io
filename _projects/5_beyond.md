@@ -13,7 +13,7 @@ While our primary focus is on advancing medical imaging technologies, the princi
 
 Underwater vision systems are crucial for exploring and monitoring marine environments, enabling us to study habitats, track biodiversity, and assess ecological impacts without physical intrusion. These systems rely on advanced image processing and machine learning techniques, similar to those used in medical diagnostics, to interpret the often murky and unpredictable underwater visuals.
 
-<img src="assets/img/project_seagrassfinder.png" alt="seagrassfinder" width="500" height="auto">
+<img src="/assets/img/project_seagrassfinder.png" alt="seagrassfinder" width="500" height="auto">
 
 
 <h3>Beyond Medical Imaging</h3>
