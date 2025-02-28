@@ -32,11 +32,15 @@ Some students have done work related to this project:
 <p> We organized a 2-days workshop in Nyborg Strand (DK) <a href="https://medical-datasets.github.io/workshop/"><strong>In the Picture: Medical Imaging Datasets</strong></a> focused on the challenges within medical imaging datasets that hinder the development of fair and robust AI algorithms. We had several invited talks, and mostly group sessions that focused on engagement and collaboration.
 </p>
 
-<h2>Funding</h2>
-DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B 
+<h2>Datasets</h2>
+<p> NEATX: Non-Expert Annotations of Tubes in X-rays, hosted on <a href="https://zenodo.org/records/14944064/">Zenodo</a>. This dataset contains 3.5k chest drain annotations for the NIH-CXR14 dataset, and 1k annotations for four different tube types (chest drain, tracheostomy, nasogastric, and endotracheal) in the PadChest dataset by two data science students.
+</p>
 
 <h2>References</h2>
 ----------
 <div class="publications">
   {% bibliography --query @*[project ~= mmc] %}
 </div>
+
+<h2>Funding</h2>
+DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B 
