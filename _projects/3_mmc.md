@@ -33,7 +33,7 @@ Some students have done work related to this project:
 </p>
 
 <h2>Dataset</h2>
-<p> <strong>NEATX</strong>: Non-Expert Annotations of Tubes in X-rays, hosted on <a href="https://zenodo.org/records/14944064/">Zenodo</a>. </p>
+<p> <strong>NEATX</strong>: Non-Expert Annotations of Tubes in X-rays, hosted on <a href="https://zenodo.org/records/14944064">Zenodo</a>. </p>
 <p> This dataset contains 3.5k chest drain annotations for the NIH-CXR14 dataset, and 1k annotations for four different tube types (chest drain, tracheostomy, nasogastric, and endotracheal) in the PadChest dataset by two data science students. </p>
 
 <h2>References</h2>
