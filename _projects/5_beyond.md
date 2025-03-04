@@ -21,6 +21,7 @@ Underwater vision systems are crucial for exploring and monitoring marine enviro
 Next to medical imaging occasionally lab members work on other types of data, with methods often at least partially inspired by (traditional) image processing and weakly-supervised learning techniques. Some projects include (not all are published yet):
  
 <ul>
+ <li>Aidan Stocks developed a method for improving the recognition performance of data matrix code lasered or pin-dotted on metal components</li>
 <li>Nikolaj Kjøller Bjerregaard developed a method for recognizing furigana in Japanese texts and comic books</li>
 <li>Jannik Elsässer did a project on recognizing sea grass in underwater images</li>
 <li> Patrick Wittendorff Abarzua Neira, Silas Roien Arildsen, Bertram Kosmo Hviid and Tobias Skovbæk Brund did a project on machine learning for sign language recognition </li>
