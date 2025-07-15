@@ -3,11 +3,11 @@ layout: page
 title: Ralf Raumanns
 description: PhD Fellow
 img: assets/img/profile-photos/Ralf.png
-category: PhD
 importance: 1
 started: 2013-08-01
 name: Ralf Raumanns
 status: Current
+category: Current
 position: PhD
 email: ralr@itu.dk
 themes: [Multi-Task, Crowdsourcing, Bias]
