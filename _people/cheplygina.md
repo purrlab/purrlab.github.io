@@ -7,6 +7,7 @@ importance: 1
 started: 2017-01-01
 name: Veronika Cheplygina
 status: Current
+category: Current
 position: Full Professor
 email: vech@itu.dk
 themes: [Meta-Research]
