@@ -14,15 +14,13 @@ At PURRlab we are working on improving the use of machine learning in medical im
 More information about what it's like to join the lab, and general resources for students are available in our [Lab guide on Notion](https://vcheplygina.notion.site/Lab-guide-PURRlab-at-ITU-c85f30c838f1447780773a456cf35fcd?pvs=74).
 
 ### Interested in doing a project with us?
-Have a look at our available topics on the [Dasya website](https://dasya.itu.dk/for-students/proposals/):
-* [Projects with Veronika](https://dasya.itu.dk/for-students/proposals/#veronika-cheplygina)
-* [Projects with Amelia](https://dasya.itu.dk/for-students/proposals/#amelia-jim%c3%a9nez-s%c3%a1nchez)
-* [Projects with Yucheng](https://dasya.itu.dk/for-students/proposals/#yucheng-lu)
+
+We are not supervising project in fall 2025 due to Veronika's sabbatical and several people leaving the lab. For spring 2025, please check this page later in the semester for available topics, and after that email Veronika. 
 
 
 ## Open PhD or postdoc positions
 
-We have [multiple PhD and postdoc positions available](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181763&DepartmentId=3439&MediaId=5), closing date 30th of April 2025. In general, please keep an eye on the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies) to stay updated about possible positions. 
+There are currently no open or expected/upcoming positions. In general, please keep an eye on the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies) to stay updated about possible positions. 
 
 
 ## Alternatives
