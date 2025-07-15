@@ -2,11 +2,11 @@
 layout: page
 title: Yucheng Lu
 img: assets/img/profile-photos/yucheng-2024.jpg
-category: Postdoc
 importance: 1
 started: 2023-12-01
 name: Yucheng Lu
 status: Current
+category: Current
 position: Postdoctoral Researcher
 email: yucl@itu.dk
 themes: [Transfer Learning, Medical Image Analysis, Image Processing]
