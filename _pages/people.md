@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 horizontal: false
-display_categories: "Current", "Past"
+display_categories: [Current, Past]
 ---
 
 <!-- pages/people.md -->
