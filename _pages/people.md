@@ -60,6 +60,13 @@ display_categories:
 
 <h2>MSc students at ITU</h2>
 <ul>
+  <li>Niclas Classen - Colon reconstruction in CT scans (spring 2025) </li>
+  <li>Ioana-Daria Vasile – Colon reconstruction in CT scans (spring 2025) </li>
+  <li>Anders Havbro Hjulmand (fall 2024, spring 2025) – DNA foundation models </li>
+  <li>Eisuke Okuda (fall 2024, spring 2025) – DNA foundation models </li>
+  <li>Andreas Flensted Olsen (fall 2024, spring 2025) – DNA foundation models </li>
+  <li>Bianca Ida Pedersen, Max Andreas de Visser (fall 2024) – Shortcuts in chest CT scans </li>
+  <li>Veron Hoxha (fall 2024) – Dataset duplication on Kaggle </li>
   <li>Michelle Hestbek-Møller (spring 2024) </li>
   <li>Casper Anton Poulsen (spring 2024) </li>
   <li>Jorge del Pozo Lerida (spring 2024) </li>
@@ -74,6 +81,7 @@ display_categories:
 
 <h2>BSc students at ITU</h2>
 <ul>
+<li>Gabriela Zhelyazkova (spring 2025)</li>
 <li>Mirka Katuscáková (spring 2024)</li> 
 <li>Yasmin Sarkhosh (spring 2024)</li> 
 <li>Lars Andreas Metsälä Wulff (spring 2024)</li> 
