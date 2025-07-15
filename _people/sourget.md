@@ -3,11 +3,11 @@ layout: page
 title: Théo Sourget
 description: Research Assistant
 img: assets/img/profile-photos/Theo.jpg
-category: PhD
 importance: 1
 started: 2013-08-01
 name: Théo Sourget
 status: Current
+category: Current
 position: Research Assistant
 email: tsou@itu.dk
 themes: [Medical Imaging, Generative models, Multi-modal models]
