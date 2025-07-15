@@ -7,6 +7,7 @@ importance: 1
 started: 2022-08-01
 name: Amelia Jiménez-Sánchez
 status: Current
+category: Current
 position: Postdoctoral researcher
 email: amji@itu.dk
 themes: [Fairness, MetaData, Datasets, Medical Imaging, Curriculum Learning, Domain Adaptation, Federated Learning]
