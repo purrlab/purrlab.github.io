@@ -387,17 +387,30 @@
     selected={false}
 }
 
-@article{damgaard2023augmenting,
-    title={Augmenting Chest X-ray Datasets with Non-Expert Annotations},
-    author={Damgaard, Cathrine and Eriksen, Trine Naja and Juodelyte, Dovile and Cheplygina, Veronika and Jiménez-Sánchez, Amelia},
-    journal={arXiv preprint arXiv:2309.02244},
-    year={2023},
-    code={https://github.com/purrlab/DrainDetection_ChestXrays},
-    preview={augmenting.png},
-    selected={true},
-    project={mmc},
-    url={https://arxiv.org/abs/2309.02244}
+@InProceedings{cheplygina2025augmenting,
+author="Cheplygina, Veronika
+and Damgaard, Cathrine
+and Eriksen, Trine Naja
+and Juodelyte, Dovile
+and Jim{\'e}nez-S{\'a}nchez, Amelia",
+editor="Ali, Sharib
+and Hogg, David C.
+and Peckham, Michelle",
+title="Augmenting Chest X-ray Datasets with Non-Expert Annotations",
+booktitle="Medical Image Understanding and Analysis",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="133--144",
+abstract="The advancement of machine learning algorithms in medical image analysis requires the expansion of training datasets. A popular and cost-effective approach is automated annotation extraction from free-text medical reports, primarily due to the high costs associated with expert clinicians annotating medical images, such as chest X-rays. However, it has been shown that the resulting datasets are susceptible to biases and shortcuts. Another strategy to increase the size of a dataset is crowdsourcing, a widely adopted practice in general computer vision with some success in medical image analysis. In a similar vein to crowdsourcing, we enhance two publicly available chest X-ray datasets by incorporating non-expert annotations. However, instead of using diagnostic labels, we annotate shortcuts in the form of tubes. We collect 3.5k chest drain annotations for NIH-CXR14, and 1k annotations for four different tube types in PadChest, and create the Non-Expert Annotations of Tubes in X-rays (NEATX) dataset. We train a chest drain detector with the non-expert annotations that generalizes well to expert labels. Moreover, we compare our annotations to those provided by experts and show ``moderate'' to ``almost perfect'' agreement. Finally, we present a pathology agreement study to raise awareness about the quality of ground truth annotations. We make our dataset available on Zenodo at https://zenodo.org/records/14944064and our code available at https://github.com/purrlab/chestxr-label-reliability.",
+isbn="978-3-031-98688-8",
+code={https://github.com/purrlab/DrainDetection_ChestXrays},
+preview={augmenting.png},
+selected={true},
+project={mmc},
+url={https://link.springer.com/chapter/10.1007/978-3-031-98688-8_10}
 }
+
 
 @inproceedings{sourget2024citation,
     title={[Citation needed] Data usage and citation practices in medical imaging conferences},
