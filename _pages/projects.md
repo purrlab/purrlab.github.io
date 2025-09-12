@@ -5,7 +5,7 @@ permalink: /projects/
 description: On-going research projects.
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [On-going,Completed]
 horizontal: false
 ---
 

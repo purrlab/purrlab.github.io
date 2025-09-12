@@ -4,7 +4,7 @@ title: CATS
 description: Choosing A Transfer Source for Medical Image Classification
 img: assets/img/project_cats.png
 importance: 2
-category: work
+category: On-going
 ---
 
 <figure style="text-align: center;">     <img src="/assets/img/project_cats_banner.png" alt="Banner Image" style="width:100%; max-width:400px;">     <figcaption style="font-size: smaller;"> Transfer learning from nonmedical or medical image data sets. A network is first trained on a source data set. This network can then be used for feature

@@ -4,7 +4,7 @@ title: HINTS
 description: From black box to intelligible machine learning for the accurate diagnosis of medical images
 img: assets/img/project_hints.png
 importance: 1
-category: work
+category: On-going
 ---
 
 <h2>Description</h2>

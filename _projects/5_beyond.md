@@ -4,7 +4,7 @@ title: Beyond medical imaging
 description: Image processing and (weakly) supervised learning in other datasets
 img: assets/img/publication_preview/seagrassfinder.png
 importance: 2
-category: work
+category: On-going
 ---
 
 <h3>Underwater Vision: Exploring the Unseen Depths</h3>

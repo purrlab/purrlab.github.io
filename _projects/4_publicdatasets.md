@@ -4,7 +4,7 @@ title: Public Datasets
 description: Studying public datasets in scientific literature
 img: assets/img/project_publicdatasets.png
 importance: 2
-category: work
+category: On-going
 ---
 
 <figure style="text-align: center;">     <img src="/assets/img/project_publicdatasets.png" alt="Banner Image" style="width:100%; max-width:400px;">     <figcaption style="font-size: smaller;"> Information is extracted from research papers to perform meta-studies on how public datasets are used and documented.</figcaption> </figure>
