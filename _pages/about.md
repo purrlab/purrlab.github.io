@@ -40,7 +40,7 @@ PURRLab research is being supported by the Dutch Research Council, Novo Nordisk 
 
 
 <div class="news">            
-    <img src="/assets/img/team.png" style="width:100%">
+    <img src="/assets/img/team_new.jpg" style="width:100%">
 </div>
 
 
