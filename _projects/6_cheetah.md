@@ -36,4 +36,4 @@ We plan to:
 </div>
 
 <h2>Funding</h2>
-Novo Nordisk Data Science Investigator Grant
+Novo Nordisk Data Science Investigator Grant (grant number NNF24OC00926)

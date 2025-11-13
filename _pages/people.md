@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 horizontal: false
-display_categories: [Current, Past]
+display_categories: [Current, Affiliated, Past]
 ---
 
 <!-- pages/people.md -->
@@ -60,8 +60,8 @@ display_categories: [Current, Past]
 
 <h2>MSc students at ITU</h2>
 <ul>
-<li>Nikolette Zoe Pedersen (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
-<li>Regitze Julie Sydendal (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
+  <li>Nikolette Zoe Pedersen (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
+  <li>Regitze Julie Sydendal (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
   <li>Niclas Classen (spring 2025) - Colon reconstruction in CT scans  </li>
   <li>Ioana-Daria Vasile (spring 2025) – Colon reconstruction in CT scans  </li>
   <li>Anders Havbro Hjulmand (fall 2024, spring 2025) – DNA foundation models </li>
