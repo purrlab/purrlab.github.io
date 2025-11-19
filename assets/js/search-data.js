@@ -170,6 +170,16 @@ ninja.data = [{
           description: "Yucheng Lu earned his BS degree in optical information science and technology from Hangzhou Dianzi University in 2016. Subsequently, he attained his Ph.D. in multimedia engineering from Dongguk University in 2022. From 2022 to 2023, he served as a research professor at Korea University. In December 2023, he joined PURRlab as a postdoctoral researcher. His primary areas of focus encompass transfer learning, image processing, and medical image analysis.",
           section: "People",handler: () => {
               window.location.href = "/people/lu/";
+            },},{id: "people-louise-meier-carlsen",
+          title: 'Louise Meier Carlsen',
+          description: "",
+          section: "People",handler: () => {
+              window.location.href = "/people/meiercarlsen/";
+            },},{id: "people-aske-mottelson",
+          title: 'Aske Mottelson',
+          description: "I’m an Associate Professor in the section for Human-Computer Interaction &amp; Design at the IT University of Copenhagen (ITU). I’m a computer scientist with research interests in human-computer interaction, psychology, and data science. My research is about understanding user behavior of computer systems, and what this tells us about human psychology. My work entails designing and conducting computerized experiments with human participants, and modeling the interactions using statistical and machine learning techniques. I’m studying, and ultimately aiming at improving, how to conduct empirical research in computer science. I utilize a range of technologies such as extended reality and mobile interfaces to evaluate, understand, and improve the study of interactions between humans and computers at scale. I am a fan of open science and reproducibility.",
+          section: "People",handler: () => {
+              window.location.href = "/people/mottelson/";
             },},{id: "people-ralf-raumanns",
           title: 'Ralf Raumanns',
           description: "Ralf Raumanns is a software engineer and data scientist with nearly 20 years of experience in R&amp;D and medical applications at Philips and Maastricht University. He lectures at Fontys University Venlo and does PhD research at TU/e Eindhoven, and ITU Copenhagen, focusing on deep learning and fairness in medical diagnostics. He earned his Bachelor&#39;s degree in Computer Science and Master&#39;s degree in Data Science from Maastricht University.",
@@ -180,6 +190,11 @@ ninja.data = [{
           description: "Théo Sourget is a PhD Student at the IT University of Copenhagen working on the evaluation of machine learning algorithms and data quality. His background is in data science in general, but he specialised himself in medical image analysis with various project on both classification and segmentation. During these projects, he also explored data generation techniques with and without deep learning. Before joining ITU, he obtained a bachelor&#39;s degree in computer science and a master&#39;s degree in data science from the University of Rouen. He then worked as a Research Assistant in PURRlab and in the MICS laboratory at CentraleSupélec Paris on the robustness of AI in healthcare and the study of public medical datasets in research papers.",
           section: "People",handler: () => {
               window.location.href = "/people/sourget/";
+            },},{id: "people-rob-van-der-goot",
+          title: 'Rob van der Goot',
+          description: "Rob van der Goot is associate professor at the IT University of Copenhagen. His main research interest is robustness in natural language processing. This includes the processing of non-standard language varieties, low-resource languages and any setting were only little training data is available.",
+          section: "People",handler: () => {
+              window.location.href = "/people/vandergoot/";
             },},{id: "people-laura-weihl",
           title: 'Laura Weihl',
           description: "Laura Weihl is a PhD student with a background in Mathematics, Computer Science, and Machine Learning, specialising in enhancing underwater vision systems. Her research primarily revolves around advancing perception of static underwater cameras and autonomous underwater vehicles. Her recent work includes leveraging Neural Radiance Fields (NeRF) for 3D reconstructions to create testing environments for visual simultaneous localization and mapping (vSLAM) and applying transfer learning techniques to detect and analyze seagrass in underwater footage. Driven by a growing interest in environmental conservation, she is now focusing on how these technologies can be used for biodiversity monitoring to assess and support environmental health. When not immersed in code, you can find her playing piano or singing in a choir, blending art with science to explore the depths of both the ocean and human expression.",
