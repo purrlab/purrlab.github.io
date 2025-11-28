@@ -1,0 +1,24 @@
+<div class="news">
+  {% assign projects = site.studentprojects | where:"status","current" %}
+  {% if projects != blank %}
+    {% assign projects_size = projects | size %}
+    <div
+      class="table-responsive"
+      {% if include.limit and page.announcements.scrollable and studentprojects > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      <table class="table table-sm table-borderless">
+        <div class="row">
+            {% for item in projects%}
+              <tr>
+                <th scope="row"><a class="news-title" href="{{ item.url | relative_url }}">{{ item.title}}</a></th>
+              </tr>
+            {% endfor %}
+        </div>
+      </table>
+    </div>
+  {% else %}
+    <p>No project posted for the moment, check again later or contact us with your own idea if you think it would be a nice fit!</p>
+  {% endif %}
+</div>

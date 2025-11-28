@@ -9,19 +9,14 @@ nav_order: 8
 
 ## BSc and MSc projects at ITU
 
+
 At PURRlab we are doing meta-research on the use of machine learning, often in medical image analysis. To learn more about the research directions, check out our [publications](https://purrlab.github.io/publications/). You can find highlighted example of previous student projects on the [projects page](https://purrlab.github.io/projects/). You can also find more examples on our github [https://github.com/purrlab](https://github.com/purrlab)
 
 More information about what it's like to join the lab, and general resources for students are available in our [Lab guide on Notion](https://vcheplygina.notion.site/Lab-guide-PURRlab-at-ITU-c85f30c838f1447780773a456cf35fcd?pvs=74).
 
 We are not supervising project in fall 2025 due to Veronika's sabbatical and several people leaving the lab. For spring 2026, multiple projects will be available related to:
 
-* Qualitative analysis of notions of similarity used by ML practitioners
-* CATchy: how catchy titles and cat pictures influence the popularity of ML papers
-* Automatic extraction and validation of reported performances in ML papers
-* Estimating dataset similarity and transferability
-* General vs specialized vision-language models for medical images 
-* (More to be added)
-
+{% include student_projects.liquid %}
 
 ## Open PhD or postdoc positions
 

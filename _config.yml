@@ -182,6 +182,10 @@ collections:
   people:
     output: true
     permalink: /people/:path/
+  studentprojects:
+    output: true
+    permalink: /studentprojects/:path/
+
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
