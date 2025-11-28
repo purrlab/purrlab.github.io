@@ -245,6 +245,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "studentprojects-catchy-how-catchy-titles-and-cat-pictures-influence-the-popularity-of-ml-papers",
+          title: 'CATchy: how catchy titles and cat pictures influence the popularity of ML papers...',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/catchy/";
+            },},{id: "studentprojects-estimating-dataset-similarity-and-transferability",
+          title: 'Estimating dataset similarity and transferability',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/estimating_similiarity_transferability/";
+            },},{id: "studentprojects-general-vs-specialized-vision-language-models-for-medical-images",
+          title: 'General vs specialized vision-language models for medical images',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/general_vs_medical_vlm/";
+            },},{id: "studentprojects-automatic-extraction-and-validation-of-reported-performances-in-ml-papers",
+          title: 'Automatic extraction and validation of reported performances in ML papers',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/publicvalidation/";
+            },},{id: "studentprojects-qualitative-analysis-of-notions-of-similarity-used-by-ml-practitioners",
+          title: 'Qualitative analysis of notions of similarity used by ML practitioners',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/similarity_notions/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
