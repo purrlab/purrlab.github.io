@@ -14,15 +14,15 @@ At PURRlab we are doing meta-research on the use of machine learning, often in m
 
 More information about what it's like to join the lab, and general resources for students are available in our [Lab guide on Notion](https://vcheplygina.notion.site/Lab-guide-PURRlab-at-ITU-c85f30c838f1447780773a456cf35fcd?pvs=74).
 
-We are not supervising project in fall 2025 due to Veronika's sabbatical and several people leaving the lab. For spring 2026, multiple projects will be available related to:
+Here are some project ideas available for BSc and MSc students from spring 2026:
 
 {% include student_projects.liquid %}
 
 ## Open PhD or postdoc positions
 
-There are currently no open positions. Two postdoc positions on the CHEETAH project, focusing on inclusion in machine learning competitions, will be announced in early 2026. We are particularly looking for candidates with experience in qualitative research. Please contact Veronika if this sounds interesting!
+There are two open postdoc positions (deadline 31 January 2026) in the CHEETAH project, focusing on inclusion in machine learning competitions. Read more about the project and how to apply [here](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181837&DepartmentId=3439&MediaId=5)!
 
-All positions will be advertised through the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies). Here you can sign up to stay updated about possible positions. 
+All positions are advertised through the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies). There you can sign up to receive notifications about new positions. 
 
 
 ## Alternatives
