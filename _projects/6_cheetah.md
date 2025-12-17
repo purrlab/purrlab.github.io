@@ -27,7 +27,7 @@ We plan to:
 
 
 <h2>People</h2>
-[Théo Sourget](https://purrlab.github.io/people/sourget/), [Veronika Cheplygina](https://purrlab.github.io/people/cheplygina/), [Niclas Claßen](https://purrlab.github.io/people/classen/).
+[Théo Sourget](https://purrlab.github.io/people/sourget/), [Veronika Cheplygina](https://purrlab.github.io/people/cheplygina/), [Niclas Claßen](https://purrlab.github.io/people/classen/), [Beatrix M. G. Nielsen](https://purrlab.github.io/people/nielsen/).
 
 <h2>References</h2>
 ----------
