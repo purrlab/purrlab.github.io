@@ -186,6 +186,11 @@ ninja.data = [{
           description: "I’m an Associate Professor in the section for Human-Computer Interaction &amp; Design at the IT University of Copenhagen (ITU). I’m a computer scientist with research interests in human-computer interaction, psychology, and data science. My research is about understanding user behavior of computer systems, and what this tells us about human psychology. My work entails designing and conducting computerized experiments with human participants, and modeling the interactions using statistical and machine learning techniques. I’m studying, and ultimately aiming at improving, how to conduct empirical research in computer science. I utilize a range of technologies such as extended reality and mobile interfaces to evaluate, understand, and improve the study of interactions between humans and computers at scale. I am a fan of open science and reproducibility.",
           section: "People",handler: () => {
               window.location.href = "/people/mottelson/";
+            },},{id: "people-beatrix-m-g-nielsen",
+          title: 'Beatrix M. G. Nielsen',
+          description: "Beatrix M. G. Nielsen is a postdoc at the IT University of Copenhagen interested in understanding the representations of machine learning models. She has worked on figuring out how clustering works in high dimensions and what distances between probability distributions of models can tell us about how similar their representations are. Before she joined ITU, she did a bachelor&#39;s and master&#39;s in mathematics at the University of Copenhagen, spent some time in industry as a software developer and data scientist and did a PhD at the Technical University of Denmark.",
+          section: "People",handler: () => {
+              window.location.href = "/people/nielsen/";
             },},{id: "people-ralf-raumanns",
           title: 'Ralf Raumanns',
           description: "Ralf Raumanns is a software engineer and data scientist with nearly 20 years of experience in R&amp;D and medical applications at Philips and Maastricht University. He lectures at Fontys University Venlo and does PhD research at TU/e Eindhoven, and ITU Copenhagen, focusing on deep learning and fairness in medical diagnostics. He earned his Bachelor&#39;s degree in Computer Science and Master&#39;s degree in Data Science from Maastricht University.",
