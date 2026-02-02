@@ -151,6 +151,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-have-two-open-postdoc-positions-in-the-cheetah-project-read-more-about-the-project-apply-here-or-help-spread-the-word",
           title: 'We have two open postdoc positions in the CHEETAH project. Read more about...',
           description: "",
+          section: "News",},{id: "news-niclas-claßen-now-starts-his-phd-within-the-cheetah-project",
+          title: 'Niclas Claßen now starts his PhD within the CHEETAH project!',
+          description: "",
           section: "News",},{id: "people-veronika-cheplygina",
           title: 'Veronika Cheplygina',
           description: "Dr. Veronika Cheplygina&#39;s research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as an assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she left the tenure track of search of the next step where she can contribute to open and inclusive science. In 2021 she started as an associate professor at IT University of Copenhagen, and from 2025 is a full professor at the same university. Next to research and teaching, Veronika blogs about academic life at https://www.veronikach.com. She also loves cats, which you will often encounter in her work.",
@@ -158,7 +161,7 @@ ninja.data = [{
               window.location.href = "/people/cheplygina/";
             },},{id: "people-niclas-claßen",
           title: 'Niclas Claßen',
-          description: "Niclas Claßen is a Research Assistant and incoming PhD student (from February 2026) at the IT University of Copenhagen, where he completed his Master in Data Science this summer. He works on the robust evaluation of machine learning algorithms, algorithm similarity, and data diversity as part of the CHEeTAh project. His background is in data science with a particular focus on medical image analysis, where he has worked on projects involving both classification and segmentation tasks, including his Master thesis on segmenting and reconstructing collapsed colons from CT scans.",
+          description: "Niclas Claßen is a PhD student at the IT University of Copenhagen, where he completed his Master in Data Science this summer. He works on the robust evaluation of machine learning algorithms, algorithm similarity, and data diversity as part of the CHEeTAh project. His background is in data science with a particular focus on medical image analysis, where he has worked on projects involving both classification and segmentation tasks, including his Master thesis on segmenting and reconstructing collapsed colons from CT scans.",
           section: "People",handler: () => {
               window.location.href = "/people/classen/";
             },},{id: "people-amelia-jiménez-sánchez",
