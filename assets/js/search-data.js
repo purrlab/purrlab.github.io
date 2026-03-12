@@ -277,6 +277,11 @@ ninja.data = [{
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/general_vs_medical_vlm/";
+            },},{id: "studentprojects-investigating-high-dimensional-multimodal-health-data",
+          title: 'Investigating High-dimensional Multimodal Health Data',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/high_dimensional_multimodal_health_data/";
             },},{id: "studentprojects-automatic-extraction-and-validation-of-reported-performances-in-ml-papers",
           title: 'Automatic extraction and validation of reported performances in ML papers',
           description: "",
