@@ -18,5 +18,5 @@ website: https://ameliajimenez.github.io/
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Jiménez-Sánchez] %}
+  {% bibliography --query @*[authorids ~= amji] %}
 </div>

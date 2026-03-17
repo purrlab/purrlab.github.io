@@ -18,5 +18,5 @@ website: https://aske.mottelson.dk/
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Mottelson] %}
+  {% bibliography --query @*[authorids ~= asmo] %}
 </div>

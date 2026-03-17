@@ -18,5 +18,5 @@ website: https://pure.itu.dk/en/persons/louise-meier-carlsen/
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= MeierCarlsen] %}
+  {% bibliography --query @*[authorids ~= loca] %}
 </div>

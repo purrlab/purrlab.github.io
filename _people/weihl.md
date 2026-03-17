@@ -16,5 +16,5 @@ themes: [AI reliability, underwater imaging]
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Weihl] %}
+  {% bibliography --query @*[authorids ~= lawe] %}
 </div>

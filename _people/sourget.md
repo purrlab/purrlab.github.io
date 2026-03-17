@@ -18,5 +18,5 @@ website: https://tsourget.fr/
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Sourget] %}
+  {% bibliography --query @*[authorids ~= tsou] %}
 </div>

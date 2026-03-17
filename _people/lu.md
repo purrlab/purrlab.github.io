@@ -17,5 +17,5 @@ website: https://github.com/YCL92
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Lu] %}
+  {% bibliography --query @*[authorids ~= yucl] %}
 </div>

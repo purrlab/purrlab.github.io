@@ -18,5 +18,5 @@ website: https://robvanderg.github.io/
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= vanderGoot] %}
+  {% bibliography --query @*[authorids ~= robv] %}
 </div>

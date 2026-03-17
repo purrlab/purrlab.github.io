@@ -18,5 +18,5 @@ description: Niclas Claßen is a PhD student at the IT University of Copenhagen,
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Claßen] %}
+  {% bibliography --query @*[authorids ~= niclc] %}
 </div>

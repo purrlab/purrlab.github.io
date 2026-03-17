@@ -17,5 +17,5 @@ description: Ralf Raumanns is a software engineer and data scientist with nearly
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Raumanns] %}
+  {% bibliography --query @*[authorids ~= ralr] %}
 </div>

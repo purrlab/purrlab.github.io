@@ -17,5 +17,5 @@ description: Beatrix M. G. Nielsen is a postdoc at the IT University of Copenhag
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Beatrix] %}
+  {% bibliography --query @*[author ~= beat] %}
 </div>

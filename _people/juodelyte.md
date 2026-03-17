@@ -16,5 +16,5 @@ themes: [Transfer Learning, Datasets]
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Juodelyte] %}
+  {% bibliography --query @*[authorids ~= doju] %}
 </div>

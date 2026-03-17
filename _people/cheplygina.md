@@ -18,5 +18,5 @@ website: https://www.veronikach.com
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= Cheplygina] %}
+  {% bibliography --query @*[authorids ~= vech] %}
 </div>
