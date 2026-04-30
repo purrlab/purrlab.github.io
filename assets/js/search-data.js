@@ -30,12 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-join",
-          title: "Join",
+        },{id: "nav-student-projects",
+          title: "Student Projects",
+          description: "List of available student projects",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/student_projects/";
+          },
+        },{id: "nav-jobs",
+          title: "Jobs",
           description: "How to join the lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/join/";
+            window.location.href = "/jobs/";
           },
         },{id: "nav-contact",
           title: "Contact",
