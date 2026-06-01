@@ -6,9 +6,9 @@ img: assets/img/profile-photos/Dovile.png
 importance: 2
 started: 2022-01-03
 name: Dovile Juodelyte
-status: Past
-category: Past
-position: PhD
+status: Current
+category: Current
+position: Postdoctoral researcher
 email: doju@itu.dk
 themes: [Transfer Learning, Datasets]
 ---
