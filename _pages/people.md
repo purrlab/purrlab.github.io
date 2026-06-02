@@ -60,6 +60,8 @@ display_categories: [Current, Affiliated, Past]
 
 <h2>MSc students at ITU</h2>
 <ul>
+  <li>Nikolette Zoe Pedersen (Spring 2026) - Investigating Real-World Shortcuts in MedCLIP for Chest X-ray Images</li> 
+  <li>Regitze Julie Sydendal (Spring 2026) - Investigating Real-World Shortcuts in MedCLIP for Chest X-ray Images</li> 
   <li>Nikolette Zoe Pedersen (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
   <li>Regitze Julie Sydendal (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
   <li>Niclas Classen (spring 2025) - Colon reconstruction in CT scans  </li>
