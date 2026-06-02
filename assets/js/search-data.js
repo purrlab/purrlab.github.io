@@ -283,8 +283,8 @@ ninja.data = [{
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/catchy/";
-            },},{id: "studentprojects-estimating-dataset-similarity-and-transferability",
-          title: 'Estimating dataset similarity and transferability',
+            },},{id: "studentprojects-investigating-uncertainty-of-transferability-estimation-metrics",
+          title: 'Investigating uncertainty of transferability estimation metrics',
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/estimating_similiarity_transferability/";
