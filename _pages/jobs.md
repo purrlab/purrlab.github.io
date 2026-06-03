@@ -11,12 +11,18 @@ nav_order: 9
 
 There are currently no open or expected/upcoming positions. In general, please keep an eye on the [official ITU vacancy page](https://en.itu.dk/About-ITU/Vacancies) to stay updated about possible positions. There you can sign up to receive notifications about new positions. 
 
+If you would like to reach out about working together, for example by applying for external funding or a research visit, please contact Veronika (vech @ itu.dk). You **must** include:
 
-## Alternatives
+* Your CV with website/Google Scholar/Github links
+* A description of your research ideas, detailing how they connect both to our and your previous work, and why you want to work with us.
+* Your envisioned timeline for the project
 
-If you have or are eligible to apply for external funding and would like to work with us, or you are interested in a research visit, please contact Veronika (vech @ itu.dk). You should attach your CV (links to preprints or Github projects appreciated), write 2-3 paragraphs describing possible research directions, AND how these relate to work we are doing in the lab. 
+We are not able invest time to respond to generic emails that do not satisfy these criteria, or (AI-generated) emails that suggest you did not spend time looking into what we do and how we do it.  
 
-Some sources of funding to consider are:
+
+## Funding sources
+
+For external funding or research visits, some sources of funding to consider are:
 
 * [DDSA visit grants](https://ddsa.dk/visitgrants/)
 * [Innovation Fund - industrial PhD](https://innovationsfonden.dk/en/p/industrial-researcher/industrial-phd-all-areas-private)
