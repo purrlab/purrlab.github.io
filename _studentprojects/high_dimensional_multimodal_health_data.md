@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Investigating High-dimensional Multimodal Health Data"
+title: "Investigating high-dimensional multimodal health data"
 status: current
 inline: false
 ---
