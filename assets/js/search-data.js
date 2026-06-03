@@ -294,7 +294,7 @@ ninja.data = [{
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/general_vs_medical_vlm/";
             },},{id: "studentprojects-investigating-high-dimensional-multimodal-health-data",
-          title: 'Investigating High-dimensional Multimodal Health Data',
+          title: 'Investigating high-dimensional multimodal health data',
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/high_dimensional_multimodal_health_data/";
