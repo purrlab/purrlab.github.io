@@ -17,7 +17,18 @@
               {{- site.last_name -}}
             {% endif %}
           {% else %}
-            {{- site.title -}}
+            <img
+              src="{{'/assets/img/purrlab_logo_lightmode.png'}}"
+              class="only-light"
+              alt="Logo"
+              height="32"
+            >
+            <img
+              src="{{'/assets/img/purrlab_logo_darkmode.png'}}"
+              class="only-dark"
+              alt="Logo"
+              height="32"
+            >
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
