@@ -3,6 +3,7 @@ layout: post
 title: "Qualitative analysis of notions of similarity used by ML practitioners"
 status: current
 inline: false
+category: Metaresearch
 ---
 
 Machine learning methods are often evaluated on benchmark datasets, in computer vision, medical imaging, NLP and other fields. In such evaluation, researchers often describe the data as being:

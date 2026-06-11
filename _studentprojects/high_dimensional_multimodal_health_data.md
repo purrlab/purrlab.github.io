@@ -3,6 +3,7 @@ layout: post
 title: "Investigating high-dimensional multimodal health data"
 status: current
 inline: false
+category: Multimodal
 ---
 **Supervisors:** Beatrix (daily supervisor), Veronika (co-supervisor / co-examiner)
 

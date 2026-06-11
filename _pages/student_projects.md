@@ -5,6 +5,7 @@ title: "Student Projects"
 description: List of available student projects
 nav: true
 nav_order: 8
+display_categories: [Metaresearch,Multimodal,Transferability]
 ---
 
 ## BSc and MSc projects at ITU
@@ -16,4 +17,32 @@ More information about what it's like to join the lab, and general resources for
 
 Here are some project ideas available for BSc and MSc students from spring 2026:
 
-{% include student_projects.liquid %}
+<!-- Display categorized projects -->
+{%- for category in page.display_categories %}
+{%- assign categorized_projects = site.studentprojects | where: "category", category -%}
+<h2 class="category">{{ category }}</h2>
+<div class="news">
+  {% assign projects = categorized_projects | where:"status","current" %}
+  {% if projects != blank %}
+    {% assign projects_size = projects | size %}
+    <div
+      class="table-responsive"
+      {% if include.limit and page.announcements.scrollable and studentprojects > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      <table class="table table-sm table-borderless">
+        <div class="row">
+            {% for item in projects%}
+              <tr>
+                <th scope="row"><a class="news-title" href="{{ item.url | relative_url }}">{{ item.title}}</a></th>
+              </tr>
+            {% endfor %}
+        </div>
+      </table>
+    </div>
+  {% else %}
+    <p>No project available for this theme yet, check again later or contact us with your own idea if you think it would be a nice fit!</p>
+  {% endif %}
+</div>
+{% endfor %}
