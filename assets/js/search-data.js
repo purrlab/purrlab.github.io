@@ -173,9 +173,9 @@ ninja.data = [{
           section: "News",},{id: "news-dovile-juodelyte-joins-the-lab-as-a-postdoctoral-researcher-welcome-back-dovile",
           title: 'Dovile Juodelyte joins the lab as a postdoctoral researcher, welcome back Dovile!',
           description: "",
-          section: "News",},{id: "people-",
-          title: '',
-          description: "",
+          section: "News",},{id: "people-betty-saenyi",
+          title: 'Betty Saenyi',
+          description: "Betty Saenyi is a postdoctoral researcher at the IT University of Copenhagen. She received her PhD in Information Systems from Lund University, where she investigated governance and coordination in digital health ecosystems. Her research explores how digital infrastructures shape governance, coordination mechanisms, and innovation in complex socio-technical systems.In her current research, Betty investigates the role of machine learning competitions as socio-technical infrastructures in the advancement of machine learning research. She is interested in how the design and governance of these competitions shape participation, evaluation practices, and inclusion within AI research ecosystems.Her broader research interests include the governance of digital and AI infrastructures, digital innovation, and the societal implications of emerging technologies.",
           section: "People",handler: () => {
               window.location.href = "/people/Saenyi/";
             },},{id: "people-veronika-cheplygina",
