@@ -21,5 +21,5 @@ description: >
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[authorids ~= beat] %}
+  {% bibliography --query @*[authorids ~= loca] %}
 </div>
