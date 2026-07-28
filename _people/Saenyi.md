@@ -2,7 +2,7 @@
 layout: page
 title: Betty Saenyi
 img: assets/img/profile-photos/Betty.jpg 
-importance: 1
+importance: 2
 started: 2026-06-01
 name: Betty Saenyi
 status: Current
