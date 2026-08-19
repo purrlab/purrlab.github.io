@@ -297,6 +297,11 @@ ninja.data = [{
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/catchy/";
+            },},{id: "studentprojects-deep-learning-for-earth-observation-data-with-danish-hydrological-institute",
+          title: 'Deep learning for earth observation data (with Danish Hydrological Institute)',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/earthdata/";
             },},{id: "studentprojects-investigating-uncertainty-of-transferability-estimation-metrics",
           title: 'Investigating uncertainty of transferability estimation metrics',
           description: "",
