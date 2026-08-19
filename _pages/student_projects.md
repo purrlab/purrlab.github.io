@@ -5,7 +5,7 @@ title: "Student Projects"
 description: List of available student projects
 nav: true
 nav_order: 8
-display_categories: [Metaresearch,Multimodal,Transferability]
+display_categories: [Metaresearch,Multimodal,Transferability,Beyond medical imaging]
 ---
 
 ## BSc and MSc projects at ITU
