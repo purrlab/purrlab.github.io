@@ -317,6 +317,11 @@ ninja.data = [{
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/high_dimensional_multimodal_health_data/";
+            },},{id: "studentprojects-clothing-attribute-detection-with-modelia-ai",
+          title: 'Clothing attribute detection (with Modelia.AI)',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/pockets/";
             },},{id: "studentprojects-automatic-extraction-and-validation-of-reported-performances-in-ml-papers",
           title: 'Automatic extraction and validation of reported performances in ML papers',
           description: "",
