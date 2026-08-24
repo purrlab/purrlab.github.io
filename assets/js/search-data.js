@@ -307,6 +307,11 @@ ninja.data = [{
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/estimating_similiarity_transferability/";
+            },},{id: "studentprojects-fairness-and-inclusivity-in-machine-learning-competitions",
+          title: 'Fairness and Inclusivity in Machine Learning Competitions',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/fairness_inclusivity_competitions/";
             },},{id: "studentprojects-general-vs-specialized-vision-language-models-for-medical-images",
           title: 'General vs specialized vision-language models for medical images',
           description: "",
