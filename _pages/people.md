@@ -60,8 +60,11 @@ display_categories: [Current, Affiliated, Past]
 
 <h2>MSc students at ITU</h2>
 <ul>
-  <li>Nikolette Zoe Pedersen (Spring 2026) - Investigating Real-World Shortcuts in MedCLIP for Chest X-ray Images</li> 
-  <li>Regitze Julie Sydendal (Spring 2026) - Investigating Real-World Shortcuts in MedCLIP for Chest X-ray Images</li> 
+  <li>Anton K. Andersen (spring 2026) - ECG autoencoders </li>
+  <li>Silke Bonnen (spring 2026, fall 2026) - Adenomyosis in ultrasound, transfer learning</li>
+  <li>Jonathan Opitz (spring 2026) - Graph neural networks, protein coding</li> 
+  <li>Nikolette Zoe Pedersen (spring 2026) - Investigating Real-World Shortcuts in MedCLIP for Chest X-ray Images</li> 
+  <li>Regitze Julie Sydendal (spring 2026) - Investigating Real-World Shortcuts in MedCLIP for Chest X-ray Images</li> 
   <li>Nikolette Zoe Pedersen (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
   <li>Regitze Julie Sydendal (fall 2025) - Impact of demographic data diversity on model training dynamics using data maps</li> 
   <li>Niclas Classen (spring 2025) - Colon reconstruction in CT scans  </li>
@@ -69,7 +72,8 @@ display_categories: [Current, Affiliated, Past]
   <li>Anders Havbro Hjulmand (fall 2024, spring 2025) – DNA foundation models </li>
   <li>Eisuke Okuda (fall 2024, spring 2025) – DNA foundation models </li>
   <li>Andreas Flensted Olsen (fall 2024, spring 2025) – DNA foundation models </li>
-  <li>Bianca Ida Pedersen, Max Andreas de Visser (fall 2024) – Shortcuts in chest CT scans </li>
+  <li>Bianca Ida Pedersen (fall 2024) -  – Shortcuts in chest CT scans</li>
+  <li> Max Andreas de Visser (fall 2024) – Shortcuts in chest CT scans </li>
   <li>Veron Hoxha (fall 2024) – Dataset duplication on Kaggle </li>
   <li>Michelle Hestbek-Møller (spring 2024) - Generating Synthetic X-ray Images from CT scans using SyntheX </li>
   <li>Casper Anton Poulsen (spring 2024) - Generating Synthetic X-ray Images from CT scans using SyntheX </li>
