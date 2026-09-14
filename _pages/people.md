@@ -89,6 +89,7 @@ display_categories: [Current, Affiliated, Past]
 
 <h2>BSc students at ITU</h2>
 <ul>
+<li>Peter H.(spring 2026) - Text-Based Citation Prediction for Newly Published Papers</li>
 <li>Gabriela Zhelyazkova (spring 2025) - Impact of clinical features on the performance of machine learning models classifying pleural effusion</li>
 <li>Mirka Katuscáková (spring 2024) - Influence of pen markings in skin lesion classification</li> 
 <li>Yasmin Sarkhosh (spring 2024) - Investigation into demographic representation in Healthcare AI</li> 
