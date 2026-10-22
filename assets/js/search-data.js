@@ -295,8 +295,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "studentprojects-beyond-the-leaderboard-exploring-machine-learning-competitions",
-          title: 'Beyond the Leaderboard: Exploring Machine Learning Competitions',
+            },},{id: "studentprojects-social-and-environmental-impact-of-machine-learning-competitions",
+          title: 'Social and Environmental Impact of Machine Learning Competitions',
           description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/beyondleaderboard/";
