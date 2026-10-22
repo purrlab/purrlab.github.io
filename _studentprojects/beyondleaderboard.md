@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond the Leaderboard: Exploring Machine Learning Competitions"
+title: "Social and Environmental Impact of Machine Learning Competitions"
 status: current
 inline: false
 category: Metaresearch
