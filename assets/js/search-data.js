@@ -205,7 +205,7 @@ ninja.data = [{
               window.location.href = "/people/classen/";
             },},{id: "people-sophie-grimme",
           title: 'Sophie Grimme',
-          description: "Sophie Grimme is a Postdoc at the IT University of Copenhagen working on machine learning competitions and how to make them more diverse, inclusive and sustainable. Her background is in Human Computer Interaction and in her PhD she focused on digital technologies for women&#39;s health and how to design them in a way that is enhancing data authority.",
+          description: "Sophie Grimme is a postdoctoral researcher at the IT University of Copenhagen, where she investigates machine learning competitions and their impact on participation, evaluation practices, and inclusion in AI research. She holds a PhD in Human Computer Interaction from the University of Oldenburg (Germany), where her research explored ways in which digital health technologies could support women&#39;s agency over their personal health data. Her broader research interests include human-computer interaction, feminist HCI, responsible AI, and the design and governance of digital technologies. Across these areas, she is interested in how technological systems shape agency, participation, and inclusion, and how they can be designed to better account for diverse needs, experiences, and perspectives.",
           section: "People",handler: () => {
               window.location.href = "/people/grimme/";
             },},{id: "people-amelia-jiménez-sánchez",
