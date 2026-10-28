@@ -10,9 +10,8 @@ status: Current
 category: Current
 position: Postdoctoral researcher
 email: sopgri@itu.dk
-themes: [Feminist HCI, to be done]
-description: Sophie Grimme is a Postdoc at the IT University of Copenhagen working on machine learning competitions and how to make them more diverse, inclusive and sustainable. Her background is in Human Computer Interaction and in her PhD she focused on digital technologies for women's health and how to design them in a way that is enhancing data authority. 
-website: tbd
+themes: [Feminist HCI, Inclusion and Diversity, Responsible AI, Qualitative Research, Marginalized Groups]
+description: Sophie Grimme is a postdoctoral researcher at the IT University of Copenhagen, where she investigates machine learning competitions and their impact on participation, evaluation practices, and inclusion in AI research. She holds a PhD in Human Computer Interaction from the University of Oldenburg (Germany), where her research explored ways in which digital health technologies could support women's agency over their personal health data. Her broader research interests include human-computer interaction, feminist HCI, responsible AI, and the design and governance of digital technologies. Across these areas, she is interested in how technological systems shape agency, participation, and inclusion, and how they can be designed to better account for diverse needs, experiences, and perspectives.
 ---
 
 References
