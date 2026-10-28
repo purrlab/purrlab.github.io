@@ -200,6 +200,11 @@ ninja.data = [{
           description: "Niclas Claßen is a PhD student at the IT University of Copenhagen, where he completed his Master in Data Science this summer. He works on the robust evaluation of machine learning algorithms, algorithm similarity, and data diversity as part of the CHEeTAh project. His background is in data science with a particular focus on medical image analysis, where he has worked on projects involving both classification and segmentation tasks, including his Master thesis on segmenting and reconstructing collapsed colons from CT scans.",
           section: "People",handler: () => {
               window.location.href = "/people/classen/";
+            },},{id: "people-sophie-grimme",
+          title: 'Sophie Grimme',
+          description: "Sophie Grimme is a Postdoc at the IT University of Copenhagen working on machine learning competitions and how to make them more diverse, inclusive and sustainable. Her background is in Human Computer Interaction and in her PhD she focused on digital technologies for women&#39;s health and how to design them in a way that is enhancing data authority.",
+          section: "People",handler: () => {
+              window.location.href = "/people/grimme/";
             },},{id: "people-amelia-jiménez-sánchez",
           title: 'Amelia Jiménez-Sánchez',
           description: "Amelia is a Postdoctoral Researcher at the University of Barcelona (UB), and a Guest Researcher at the IT University of Copenhagen (ITU). She has a background in computer science and machine learning, and her current research focuses on responsible and ethical AI, particularly research directions on fairness, dataset audits, and evaluation frameworks informed by policy and social sciences. She is currently working on the project &quot;DVPS&quot; at UB, researching evaluation frameworks for multi-modal foundation models. At ITU, she worked on the project “Making Metadata Count” investigating potential shortcuts that might affect the performance and fairness of classification algorithms, and carried out critical data reviews that highlighted the importance of data work. She holds a degree in Telecommunications Engineering from the University of Granada, a Master of Science in Biomedical Computing from the Technical University of Munich and received her Ph.D. from Pompeu Fabra University.",
