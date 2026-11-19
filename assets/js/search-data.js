@@ -258,6 +258,11 @@ ninja.data = [{
           description: "Laura Weihl was a PhD student with a background in Mathematics, Computer Science, and Machine Learning, specialising in enhancing underwater vision systems. Her research primarily revolves around advancing perception of static underwater cameras and autonomous underwater vehicles. Her recent work includes leveraging Neural Radiance Fields (NeRF) for 3D reconstructions to create testing environments for visual simultaneous localization and mapping (vSLAM) and applying transfer learning techniques to detect and analyze seagrass in underwater footage. Driven by a growing interest in environmental conservation, she is now focusing on how these technologies can be used for biodiversity monitoring to assess and support environmental health. When not immersed in code, you can find her playing piano or singing in a choir, blending art with science to explore the depths of both the ocean and human expression. She defended her PhD thesis &quot;Deep Neural Networks for Reliable Underwater Vision&quot; on 22 April 2026.",
           section: "People",handler: () => {
               window.location.href = "/people/weihl/";
+            },},{id: "people-hubert-d-zając",
+          title: 'Hubert D. Zając',
+          description: "Hubert Zając is a tenure-track assistant professor in Human-Centred AI at the IT University of Copenhagen. He approaches AI as a design problem. In his view, the design starts with choices about data, knowledge, and context, long before a system reaches its users. His work combines technical development with co-design alongside healthcare professionals, citizens, and industry stakeholders. The aim is AI systems that are responsible, accountable, and genuinely useful. His central concern is how these early design decisions build in particular perspectives, and how they shift expertise, work, and decision-making power in practice.",
+          section: "People",handler: () => {
+              window.location.href = "/people/zajac/";
             },},{id: "projects-hints",
           title: 'HINTS',
           description: "From black box to intelligible machine learning for the accurate diagnosis of medical images",
