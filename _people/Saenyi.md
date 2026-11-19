@@ -21,5 +21,5 @@ description: >
 References
 ----------
 <div class="publications">
-  {% bibliography --query @*[authorids ~= besa] %}
+  {% bibliography --query @*[authorids ~= betsae] %}
 </div>
